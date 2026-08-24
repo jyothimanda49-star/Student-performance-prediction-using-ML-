@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,Study_Hours,Attendance,Previous_Score,Assignments_Score,Midterm_Score,Sleep_Hours,Extracurricular,Parental_Education,Study_Method,Internet_Access,Parental_Support,Stress_Level,Motivation_Level,Participation,Final_Score,Performance
+1,20,Female,2,80,43,67,91,5.6,Yes,School,Online,Yes,High,Medium,Low,High,76,Good
+2,21,Male,4,70,58,63,92,5.8,No,Intermediate,Online,Yes,Low,Medium,Medium,Medium,76,Good
+3,19,Female,2,59,42,47,39,6.9,Yes,School,Self Study,Yes,Medium,High,Medium,High,44,Pass
+4,21,Female,7,64,41,82,40,7.6,Yes,Postgraduate,Group Study,Yes,Medium,Low,Medium,Medium,82,Good
+5,21,Male,2,57,70,100,83,7.2,No,Graduate,Coaching,Yes,Low,Low,High,Medium,70,Average
+6,18,Female,1,67,52,48,77,5.2,Yes,Intermediate,Coaching,Yes,Low,Medium,Medium,Low,60,Average
+7,19,Female,9,97,37,86,82,5.3,No,School,Online,Yes,Low,High,Low,Low,73,Average
+8,19,Female,1,84,62,72,78,8.5,Yes,Postgraduate,Coaching,Yes,Medium,High,Medium,Medium,54,Pass
+9,19,Male,8,99,40,72,81,7.0,Yes,Postgraduate,Coaching,No,High,Low,Medium,Low,87,Good
+10,21,Female,2,60,78,58,57,8.4,Yes,School,Self Study,Yes,Low,Medium,Low,Low,60,Average
+11,20,Female,8,71,78,42,38,6.2,Yes,Postgraduate,Online,Yes,Medium,Low,Low,High,52,Pass
+12,19,Female,3,99,55,49,61,7.3,Yes,Postgraduate,Group Study,Yes,Medium,Medium,High,Low,81,Good
+13,22,Male,6,73,62,79,52,6.9,No,Intermediate,Online,Yes,Medium,High,Low,Medium,68,Average
+14,21,Female,3,96,74,86,55,5.9,Yes,Postgraduate,Self Study,Yes,Low,Low,Low,Low,77,Good
+15,18,Male,7,89,88,81,62,6.6,No,School,Coaching,Yes,Low,Low,Medium,High,67,Average
+16,20,Male,10,100,88,40,69,6.8,Yes,Intermediate,Group Study,Yes,High,Low,Low,Medium,82,Good
+17,22,Male,9,80,35,68,56,5.4,No,School,Online,Yes,Medium,High,High,Low,76,Good
+18,22,Male,2,59,70,89,74,5.9,Yes,Graduate,Coaching,Yes,Low,Low,Medium,Medium,56,Pass
+19,18,Male,5,83,55,73,57,8.1,No,School,Online,No,Medium,High,High,Low,63,Average
+20,20,Male,6,91,77,90,37,8.6,No,School,Group Study,Yes,Medium,Medium,Low,High,77,Good
+21,21,Female,4,74,69,52,74,6.1,Yes,Intermediate,Online,Yes,High,High,High,Low,54,Pass
+22,17,Male,4,75,47,93,84,5.9,Yes,Postgraduate,Online,Yes,Low,Medium,High,Medium,64,Average
+23,20,Female,4,64,83,40,44,5.4,Yes,School,Online,Yes,Low,High,Low,Medium,62,Average
+24,18,Female,2,59,88,73,59,7.6,No,Intermediate,Coaching,Yes,Medium,High,Low,Medium,61,Average
+25,22,Male,4,90,88,68,86,6.0,No,Graduate,Group Study,Yes,Medium,Low,Medium,Low,90,Excellent
+26,21,Female,1,60,44,87,83,8.9,Yes,Intermediate,Group Study,Yes,High,High,Medium,Low,68,Average
+27,20,Female,6,80,87,86,42,6.0,Yes,Intermediate,Coaching,Yes,High,Low,Medium,Low,95,Excellent
+28,17,Female,1,58,78,52,89,6.3,No,Postgraduate,Coaching,Yes,High,Medium,Low,High,70,Average
+29,17,Female,10,93,81,87,45,7.2,No,School,Coaching,Yes,High,Medium,High,High,98,Excellent
+30,19,Male,6,93,87,88,95,8.1,Yes,Graduate,Self Study,No,High,Low,High,High,95,Excellent
+31,19,Female,1,89,44,92,39,6.6,No,Intermediate,Online,Yes,High,Medium,Medium,Medium,65,Average
+32,18,Male,6,55,80,100,92,6.4,Yes,School,Online,Yes,Medium,High,Medium,Medium,85,Good
+33,20,Female,10,78,47,68,79,9.0,Yes,School,Group Study,Yes,High,Low,Low,Medium,91,Excellent
+34,20,Female,8,90,71,78,87,4.5,Yes,Intermediate,Online,No,Medium,Low,High,Medium,86,Good
+35,22,Male,2,60,72,63,89,8.5,No,School,Self Study,Yes,Medium,Low,Medium,Medium,74,Average
+36,22,Female,2,95,58,65,71,5.2,No,Intermediate,Coaching,Yes,Low,Medium,Low,Low,64,Average
+37,22,Female,4,100,36,56,90,8.0,No,Intermediate,Group Study,Yes,Medium,Medium,Medium,Medium,80,Good
+38,19,Female,3,98,56,46,93,7.3,No,Intermediate,Group Study,Yes,Medium,High,Low,Low,59,Pass
+39,20,Male,4,85,51,52,79,6.0,Yes,Graduate,Online,Yes,High,High,High,High,74,Average
+40,20,Female,7,74,70,44,72,8.4,No,Intermediate,Group Study,Yes,Medium,Low,Low,High,77,Good
+41,17,Male,1,78,48,65,63,4.6,Yes,Postgraduate,Coaching,No,High,High,Medium,High,51,Pass
+42,19,Female,6,79,44,88,39,5.5,Yes,School,Group Study,Yes,High,Medium,Medium,High,76,Good
+43,21,Male,3,90,69,42,43,7.1,Yes,Graduate,Coaching,No,High,High,High,High,67,Average
+44,19,Male,10,75,59,46,93,6.1,No,School,Self Study,Yes,Low,Medium,High,Medium,98,Excellent
+45,21,Female,7,84,37,97,82,7.2,Yes,Graduate,Self Study,Yes,High,High,Medium,Medium,80,Good
+46,17,Female,10,78,81,88,36,4.6,Yes,Postgraduate,Coaching,No,Medium,Medium,Medium,Medium,83,Good
+47,18,Male,2,98,72,78,35,5.0,No,Graduate,Online,Yes,High,Medium,Medium,High,71,Average
+48,20,Male,2,96,51,92,74,5.1,Yes,Graduate,Group Study,Yes,High,High,High,High,91,Excellent
+49,17,Female,4,84,46,40,94,5.4,No,Graduate,Online,Yes,High,High,Medium,Low,59,Pass
+50,20,Male,1,76,88,88,85,6.6,No,School,Group Study,Yes,Low,Medium,High,Medium,71,Average
+51,22,Female,3,82,86,56,64,7.9,No,Intermediate,Self Study,Yes,Medium,Low,Medium,High,67,Average
+52,18,Female,9,61,58,82,45,8.6,Yes,School,Self Study,Yes,Low,High,Low,High,65,Average
+53,18,Female,7,89,63,64,62,8.3,No,Intermediate,Self Study,Yes,Medium,Medium,Low,High,66,Average
+54,17,Female,7,82,77,98,78,5.4,No,School,Group Study,Yes,Low,High,Medium,Low,63,Average
+55,18,Male,4,68,59,100,46,6.5,No,Postgraduate,Self Study,Yes,Medium,High,Low,High,45,Pass
+56,21,Female,2,64,70,42,73,5.4,No,Postgraduate,Self Study,Yes,Low,High,High,Low,38,Fail
+57,18,Male,4,70,60,54,60,5.7,Yes,Graduate,Self Study,Yes,High,High,Low,Low,63,Average
+58,20,Female,6,70,72,68,47,6.8,No,Postgraduate,Self Study,Yes,Low,High,Low,Medium,55,Pass
+59,20,Male,3,85,35,92,93,4.8,Yes,Graduate,Online,Yes,Low,Low,High,High,67,Average
+60,20,Female,1,96,54,82,42,5.5,No,Intermediate,Self Study,Yes,High,Low,Low,Low,56,Pass
+61,20,Male,8,79,89,71,95,8.7,Yes,Postgraduate,Self Study,Yes,High,Low,Low,High,89,Good
+62,21,Male,5,67,62,65,95,6.6,No,Intermediate,Online,No,Medium,Medium,Medium,Medium,66,Average
+63,19,Female,5,60,50,99,88,6.5,Yes,School,Online,Yes,Medium,Low,High,Medium,93,Excellent
+64,22,Female,4,98,81,55,62,4.6,No,Intermediate,Group Study,Yes,Medium,Low,High,Low,84,Good
+65,17,Female,6,63,51,64,92,5.6,Yes,School,Coaching,Yes,Low,Medium,Medium,Medium,83,Good
+66,20,Female,3,99,74,93,64,8.4,Yes,Intermediate,Self Study,Yes,Medium,Low,Medium,Medium,84,Good
+67,18,Male,9,90,62,67,43,5.2,Yes,Intermediate,Self Study,Yes,Low,High,Low,Medium,66,Average
+68,20,Female,5,97,46,48,73,6.4,No,Postgraduate,Self Study,Yes,Low,Low,Low,High,63,Average
+69,18,Male,3,74,61,95,65,4.6,Yes,Intermediate,Group Study,Yes,Medium,Low,Low,High,63,Average
+70,22,Male,1,72,88,95,92,6.7,Yes,Postgraduate,Self Study,No,Medium,Low,Medium,Low,78,Good
+71,22,Female,10,97,87,40,55,4.6,Yes,Postgraduate,Coaching,Yes,Low,High,High,Low,77,Good
+72,22,Male,6,75,76,68,90,8.2,Yes,Graduate,Online,Yes,High,High,Low,Medium,89,Good
+73,18,Male,2,58,81,96,81,8.2,No,Graduate,Group Study,Yes,High,High,Medium,Medium,70,Average
+74,20,Male,3,87,64,61,68,8.0,Yes,School,Online,No,Low,High,High,Low,54,Pass
+75,22,Male,1,81,75,55,89,5.8,Yes,Intermediate,Self Study,Yes,Medium,Medium,Medium,Medium,77,Good
+76,21,Female,9,61,68,80,65,8.3,Yes,School,Self Study,Yes,Low,High,Low,Low,54,Pass
+77,18,Female,8,60,71,90,86,6.9,No,Intermediate,Self Study,Yes,Low,High,Medium,High,77,Good
+78,18,Female,2,69,40,83,59,6.2,Yes,Graduate,Coaching,Yes,Medium,High,Medium,Medium,60,Average
+79,20,Female,8,72,41,90,46,7.3,Yes,Graduate,Coaching,Yes,High,High,Medium,Medium,67,Average
+80,18,Male,9,86,66,93,35,4.6,Yes,Intermediate,Group Study,Yes,Low,Medium,Medium,Medium,58,Pass
+81,18,Male,1,65,66,80,89,5.1,Yes,Intermediate,Online,Yes,High,Low,High,High,74,Average
+82,22,Female,5,74,87,46,56,7.8,No,Graduate,Self Study,Yes,High,Low,Low,High,85,Good
+83,20,Female,8,78,59,53,74,5.6,Yes,Graduate,Self Study,Yes,Medium,High,High,Medium,78,Good
+84,22,Female,2,69,67,68,71,7.2,Yes,School,Self Study,Yes,Low,High,Medium,Low,70,Average
+85,22,Male,4,61,89,58,81,6.2,No,Graduate,Self Study,Yes,Low,High,Medium,High,57,Pass
+86,20,Female,7,75,41,58,35,8.3,No,Intermediate,Coaching,Yes,High,Low,Low,Medium,66,Average
+87,17,Female,3,96,86,41,35,8.8,No,School,Online,Yes,High,Low,Low,Medium,68,Average
+88,22,Female,5,80,46,80,91,8.5,Yes,Intermediate,Online,Yes,Medium,High,High,High,81,Good
+89,21,Male,8,98,50,84,76,5.7,No,Postgraduate,Group Study,Yes,High,Low,High,Low,90,Excellent
+90,21,Male,10,68,50,54,88,5.4,Yes,School,Coaching,Yes,Medium,Medium,Low,Medium,76,Good
+91,18,Male,3,91,77,42,76,6.6,No,Intermediate,Self Study,Yes,Low,High,High,Low,56,Pass
+92,21,Male,4,75,87,50,55,4.5,Yes,Graduate,Online,Yes,Medium,High,Medium,Low,66,Average
+93,18,Male,9,72,70,92,49,4.6,No,Postgraduate,Online,Yes,High,Medium,Medium,High,84,Good
+94,17,Male,7,59,47,85,51,7.0,Yes,Intermediate,Coaching,Yes,Low,Medium,Low,Medium,73,Average
+95,20,Male,1,57,41,69,56,6.8,No,School,Group Study,Yes,Medium,Low,High,Medium,70,Average
+96,20,Male,4,77,70,96,72,9.0,Yes,Intermediate,Group Study,No,Low,Medium,Medium,Low,77,Good
+97,20,Female,4,80,81,79,69,5.4,Yes,Postgraduate,Self Study,Yes,Medium,High,Low,High,61,Average
+98,21,Female,9,91,85,57,79,5.7,Yes,School,Group Study,No,High,Low,High,High,77,Good
+99,17,Male,6,78,43,90,50,5.0,Yes,Postgraduate,Online,Yes,High,Medium,Medium,High,69,Average
+100,21,Male,9,73,66,87,42,8.6,Yes,Intermediate,Group Study,Yes,Low,Low,High,Low,83,Good
+101,21,Female,6,79,45,41,81,8.0,Yes,Graduate,Self Study,Yes,Low,Low,High,Low,78,Good
+102,17,Male,6,75,42,71,51,8.2,Yes,Graduate,Online,Yes,Low,Low,High,Medium,72,Average
+103,17,Male,5,66,67,47,51,8.6,Yes,Intermediate,Group Study,Yes,Medium,Low,Low,High,66,Average
+104,17,Male,5,95,57,61,88,6.9,No,Intermediate,Group Study,Yes,High,Medium,Medium,Low,94,Excellent
+105,17,Female,2,87,59,45,60,6.5,Yes,Intermediate,Coaching,Yes,Low,High,Low,High,60,Average
+106,20,Female,8,58,90,51,47,6.0,Yes,School,Self Study,Yes,Low,High,Medium,Low,60,Average
+107,19,Female,8,96,42,86,51,7.2,No,Postgraduate,Group Study,Yes,Low,Medium,Medium,Medium,68,Average
+108,19,Female,1,61,79,96,72,6.5,Yes,Postgraduate,Coaching,Yes,Medium,High,Low,High,58,Pass
+109,17,Female,8,76,56,79,51,6.5,No,Postgraduate,Online,Yes,Low,Low,Low,Low,57,Pass
+110,19,Male,5,87,38,75,82,8.7,Yes,Intermediate,Coaching,Yes,Low,Low,Medium,High,70,Average
+111,19,Female,2,71,74,54,48,8.9,No,Postgraduate,Coaching,Yes,Medium,Low,Medium,Low,65,Average
+112,17,Male,2,78,37,67,79,8.1,No,Intermediate,Group Study,Yes,Medium,Medium,Medium,Low,66,Average
+113,19,Male,6,88,63,91,40,7.9,Yes,School,Group Study,Yes,Low,Low,High,Low,71,Average
+114,21,Female,9,82,75,96,69,7.6,No,Graduate,Group Study,No,Low,Low,Medium,High,90,Excellent
+115,18,Female,1,97,63,88,80,5.2,Yes,Intermediate,Coaching,Yes,Medium,Medium,Low,Low,84,Good
+116,18,Male,6,95,68,84,48,4.8,Yes,Intermediate,Online,Yes,High,Low,Low,Medium,68,Average
+117,17,Male,9,93,68,57,81,7.6,Yes,Graduate,Self Study,Yes,Medium,Low,Low,High,80,Good
+118,20,Male,8,76,62,41,42,7.8,Yes,Graduate,Coaching,Yes,High,High,Medium,Medium,49,Pass
+119,17,Female,6,71,47,52,95,4.7,No,School,Group Study,Yes,Low,Medium,Medium,Medium,68,Average
+120,20,Female,3,88,49,84,49,8.7,Yes,Postgraduate,Self Study,Yes,Low,Low,High,High,71,Average
+121,18,Female,8,60,57,93,88,4.9,No,Intermediate,Online,Yes,High,Low,High,Low,90,Excellent
+122,17,Female,9,100,78,54,95,5.8,No,Postgraduate,Self Study,No,Medium,Low,Low,Medium,84,Good
+123,22,Female,1,60,60,59,61,7.5,Yes,Intermediate,Group Study,Yes,Low,Low,High,High,58,Pass
+124,21,Male,9,88,38,68,47,5.3,Yes,School,Coaching,Yes,High,High,High,Low,71,Average
+125,19,Female,6,55,60,98,83,4.7,Yes,Graduate,Coaching,No,Medium,High,Low,High,73,Average
+126,20,Male,6,64,74,81,65,6.0,Yes,School,Group Study,Yes,High,High,Medium,High,61,Average
+127,22,Male,4,75,43,68,87,7.9,No,Graduate,Coaching,Yes,Medium,High,High,High,81,Good
+128,19,Male,1,59,89,42,90,6.4,Yes,Postgraduate,Group Study,Yes,Medium,Medium,Medium,Low,77,Good
+129,19,Female,10,56,39,58,69,7.4,No,Postgraduate,Coaching,Yes,Medium,Low,Low,Medium,74,Average
+130,17,Female,8,76,90,42,94,7.1,Yes,School,Coaching,Yes,Medium,High,Low,Medium,71,Average
+131,19,Female,2,56,66,93,40,4.6,Yes,Graduate,Coaching,Yes,High,Low,High,High,63,Average
+132,21,Male,1,64,54,53,39,8.9,Yes,School,Online,Yes,High,Medium,Low,High,65,Average
+133,22,Male,2,88,84,79,56,4.7,Yes,Graduate,Online,No,High,Low,Low,Low,59,Pass
+134,19,Male,1,70,45,98,92,8.9,No,Graduate,Group Study,Yes,High,Low,Low,High,82,Good
+135,17,Male,1,93,49,94,83,7.0,No,Postgraduate,Online,No,High,High,High,High,74,Average
+136,21,Male,9,76,66,43,57,8.8,Yes,Postgraduate,Group Study,No,Medium,High,High,High,74,Average
+137,18,Male,1,66,62,98,59,5.0,No,Graduate,Self Study,Yes,Low,Medium,High,Medium,56,Pass
+138,22,Female,4,78,56,99,68,6.7,No,Graduate,Self Study,Yes,Low,Low,Low,High,74,Average
+139,19,Female,10,94,75,91,60,5.3,Yes,Graduate,Online,Yes,High,High,Medium,Medium,86,Good
+140,17,Female,6,92,51,50,81,4.7,Yes,Postgraduate,Self Study,Yes,High,High,Low,Low,55,Pass
+141,18,Female,7,64,60,97,39,7.3,No,Postgraduate,Self Study,Yes,Low,High,High,Low,63,Average
+142,18,Male,2,89,78,70,60,5.4,No,Intermediate,Coaching,No,Medium,Medium,Medium,Medium,71,Average
+143,20,Male,6,86,41,82,54,7.1,No,Graduate,Coaching,Yes,High,Low,Medium,Medium,72,Average
+144,21,Female,7,61,76,71,40,5.0,No,Intermediate,Group Study,Yes,Medium,High,High,Medium,44,Pass
+145,19,Male,10,75,60,66,40,6.0,Yes,Graduate,Self Study,Yes,Low,Low,Medium,Medium,69,Average
+146,17,Female,10,74,59,69,93,8.0,Yes,Postgraduate,Group Study,Yes,Low,Medium,Medium,High,97,Excellent
+147,20,Female,2,80,44,82,84,6.5,No,Intermediate,Group Study,Yes,High,Low,High,Medium,74,Average
+148,21,Female,2,58,79,41,52,7.3,Yes,Intermediate,Self Study,Yes,Medium,High,Medium,Medium,68,Average
+149,20,Male,10,100,53,88,38,7.4,No,School,Online,Yes,High,Low,Medium,Medium,76,Good
+150,22,Female,7,76,45,48,51,8.3,No,Graduate,Self Study,Yes,Low,Low,High,High,59,Pass
+151,21,Female,1,69,47,67,91,6.0,Yes,Postgraduate,Coaching,Yes,Medium,Medium,Medium,High,68,Average
+152,21,Female,8,94,87,70,48,7.6,No,School,Self Study,Yes,High,Medium,Medium,High,76,Good
+153,19,Male,3,75,42,99,48,8.8,No,School,Online,Yes,High,Low,Medium,Low,72,Average
+154,21,Male,6,69,74,73,47,7.8,Yes,Graduate,Group Study,Yes,High,Low,Medium,High,73,Average
+155,20,Female,9,76,38,100,41,6.7,Yes,School,Group Study,Yes,Low,Low,High,Medium,85,Good
+156,21,Male,6,82,81,95,78,7.3,No,Graduate,Coaching,Yes,High,Medium,Low,High,81,Good
+157,19,Male,9,68,65,54,89,7.8,No,School,Coaching,Yes,Medium,Medium,Low,High,79,Good
+158,19,Male,7,81,62,87,49,7.3,Yes,Graduate,Coaching,No,High,Low,Medium,Medium,82,Good
+159,22,Male,9,95,45,64,53,4.6,No,Postgraduate,Group Study,Yes,Low,Medium,High,High,79,Good
+160,20,Male,2,94,77,75,77,5.4,No,Graduate,Coaching,Yes,High,High,High,Low,85,Good
+161,18,Male,8,82,35,47,81,8.1,Yes,Graduate,Self Study,No,Low,Medium,Medium,High,70,Average
+162,18,Male,8,80,83,48,78,5.7,Yes,Intermediate,Group Study,Yes,Low,Medium,Low,Low,68,Average
+163,21,Male,2,56,81,97,69,7.8,Yes,Postgraduate,Online,Yes,Medium,Medium,Medium,Low,55,Pass
+164,22,Male,4,79,86,97,51,6.2,Yes,Postgraduate,Group Study,No,Medium,High,High,Low,86,Good
+165,17,Male,7,57,72,76,69,6.8,Yes,Postgraduate,Self Study,Yes,High,High,High,Medium,78,Good
+166,21,Female,4,62,58,87,53,4.8,Yes,School,Self Study,Yes,Low,High,Low,High,62,Average
+167,22,Female,4,98,88,84,54,5.3,No,Intermediate,Coaching,No,Low,Low,High,Low,77,Good
+168,20,Male,6,87,81,78,70,8.8,No,Postgraduate,Group Study,Yes,Medium,Low,High,Low,85,Good
+169,20,Female,10,96,65,71,69,8.5,Yes,School,Group Study,Yes,Medium,High,High,High,90,Excellent
+170,20,Female,6,89,75,97,66,7.4,Yes,School,Group Study,Yes,High,Low,Low,Medium,80,Good
+171,20,Male,10,60,80,91,92,6.6,No,School,Online,Yes,Low,Low,High,Medium,86,Good
+172,20,Male,3,93,84,56,82,7.5,No,Intermediate,Coaching,Yes,Medium,Low,Medium,Low,70,Average
+173,22,Male,9,77,60,74,78,7.3,No,School,Self Study,Yes,High,High,Low,Medium,90,Excellent
+174,22,Female,10,79,83,76,74,7.1,Yes,Intermediate,Self Study,No,Low,Medium,Medium,High,87,Good
+175,19,Female,2,97,84,58,58,4.8,Yes,Graduate,Coaching,No,Low,High,Medium,Medium,77,Good
+176,18,Male,6,73,39,83,95,7.3,No,School,Self Study,No,Medium,High,Low,High,90,Excellent
+177,20,Male,7,59,54,68,95,8.0,Yes,Postgraduate,Self Study,Yes,High,Low,Medium,Low,70,Average
+178,17,Male,9,65,86,98,51,9.0,Yes,School,Coaching,Yes,Medium,Low,Low,High,91,Excellent
+179,22,Female,3,66,75,46,41,4.5,Yes,Graduate,Self Study,No,High,Medium,Medium,Low,44,Pass
+180,17,Female,10,64,45,67,77,7.8,No,Graduate,Group Study,No,Low,Medium,Low,High,72,Average
+181,17,Female,3,62,90,48,84,7.1,No,School,Online,Yes,High,Medium,High,High,79,Good
+182,17,Female,7,78,88,67,35,6.5,Yes,Graduate,Coaching,Yes,High,Medium,High,Medium,65,Average
+183,19,Male,4,82,67,45,69,5.1,Yes,Intermediate,Online,Yes,High,High,Medium,High,62,Average
+184,22,Male,8,95,84,68,66,6.3,Yes,Intermediate,Self Study,Yes,High,Medium,High,Low,88,Good
+185,17,Male,7,90,72,97,70,6.1,Yes,School,Self Study,Yes,High,High,Low,High,82,Good
+186,20,Male,5,91,61,56,47,5.9,Yes,Intermediate,Group Study,Yes,Medium,Low,Medium,Low,59,Pass
+187,21,Female,7,75,68,55,40,7.8,No,Intermediate,Coaching,Yes,High,Medium,High,Low,64,Average
+188,17,Female,3,62,49,62,92,7.7,Yes,Postgraduate,Self Study,Yes,High,Low,High,High,66,Average
+189,19,Male,2,63,66,70,48,7.2,Yes,School,Coaching,Yes,Low,Low,Medium,Medium,51,Pass
+190,22,Male,6,69,55,42,71,8.7,Yes,Graduate,Coaching,Yes,High,High,High,High,70,Average
+191,19,Female,2,100,80,60,82,6.1,No,School,Coaching,Yes,Low,Medium,High,High,84,Good
+192,17,Male,3,94,39,65,49,5.6,No,Intermediate,Coaching,Yes,Medium,High,Medium,Medium,68,Average
+193,22,Female,6,72,40,75,81,7.5,Yes,Postgraduate,Coaching,Yes,Medium,Low,High,Low,92,Excellent
+194,21,Male,5,96,72,81,38,5.4,No,School,Online,Yes,High,Medium,High,High,78,Good
+195,17,Male,8,74,56,76,74,5.9,No,School,Group Study,Yes,Medium,Low,High,Medium,82,Good
+196,19,Male,9,60,52,92,93,5.5,No,Intermediate,Coaching,Yes,High,Low,High,Medium,91,Excellent
+197,18,Male,3,66,48,61,50,4.8,No,Intermediate,Online,Yes,Medium,Medium,Medium,Low,58,Pass
+198,20,Male,10,56,44,81,62,8.2,No,School,Self Study,No,High,Medium,Low,Medium,58,Pass
+199,19,Male,3,61,80,51,50,5.6,No,Intermediate,Coaching,Yes,High,Medium,Low,Low,72,Average
+200,22,Male,3,70,47,81,38,6.6,Yes,Intermediate,Self Study,Yes,Low,High,High,High,42,Pass
+201,17,Female,6,57,65,100,79,4.7,No,Intermediate,Coaching,Yes,Low,High,High,Medium,80,Good
+202,20,Female,1,99,64,52,60,7.6,No,Intermediate,Online,No,Low,Low,Low,High,62,Average
+203,17,Female,7,57,37,50,62,6.0,Yes,Intermediate,Online,Yes,Low,Medium,High,Medium,53,Pass
+204,22,Female,1,81,64,93,66,7.9,Yes,Postgraduate,Online,Yes,High,Low,Low,Medium,77,Good
+205,17,Female,5,97,40,55,79,6.4,Yes,Intermediate,Group Study,Yes,Medium,Low,Medium,High,76,Good
+206,18,Male,10,94,63,47,36,5.4,Yes,Graduate,Self Study,Yes,High,Low,Medium,Medium,69,Average
+207,20,Male,8,92,42,79,65,6.8,No,School,Group Study,No,Low,Low,Medium,High,64,Average
+208,20,Female,4,87,78,98,37,5.1,No,Postgraduate,Coaching,Yes,Low,Low,Medium,High,57,Pass
+209,22,Male,5,82,79,96,88,6.5,No,Postgraduate,Self Study,Yes,Medium,Medium,Medium,Low,77,Good
+210,18,Female,4,55,77,79,42,5.9,No,Intermediate,Online,Yes,Low,High,Medium,High,54,Pass
+211,19,Female,4,62,78,84,58,8.6,Yes,School,Self Study,Yes,High,Medium,Low,Low,60,Average
+212,17,Male,8,91,67,98,49,4.8,No,Graduate,Online,Yes,High,Medium,High,High,82,Good
+213,21,Male,2,86,51,41,77,7.6,No,Intermediate,Group Study,Yes,High,Medium,Low,Medium,57,Pass
+214,17,Male,1,97,82,69,65,5.3,Yes,School,Group Study,Yes,High,High,Medium,High,74,Average
+215,17,Female,3,91,45,69,43,5.9,No,Intermediate,Online,Yes,High,High,High,Medium,72,Average
+216,19,Male,9,58,47,51,73,6.4,No,Intermediate,Online,Yes,Medium,High,High,Low,69,Average
+217,17,Female,4,84,84,49,79,8.6,No,Intermediate,Coaching,Yes,High,Medium,Medium,Medium,78,Good
+218,18,Female,10,60,45,83,36,5.6,No,Intermediate,Group Study,Yes,Low,High,Medium,High,57,Pass
+219,18,Female,5,100,65,50,42,4.9,Yes,Intermediate,Group Study,Yes,Low,Low,Medium,Medium,77,Good
+220,20,Male,2,73,62,54,41,5.9,Yes,Intermediate,Coaching,Yes,Low,High,Medium,Low,48,Pass
+221,22,Male,4,86,78,55,90,5.0,Yes,Intermediate,Group Study,Yes,Low,Medium,Medium,Medium,94,Excellent
+222,21,Female,2,63,40,56,78,5.1,Yes,Graduate,Online,Yes,Medium,Medium,Medium,Medium,51,Pass
+223,17,Male,2,66,75,65,85,7.1,Yes,Postgraduate,Self Study,Yes,Low,Low,High,High,76,Good
+224,17,Male,4,65,50,41,73,4.8,No,Graduate,Self Study,Yes,Medium,High,Medium,High,70,Average
+225,19,Male,6,100,38,89,76,4.6,No,Intermediate,Group Study,Yes,Low,High,Medium,Medium,65,Average
+226,22,Female,7,70,69,51,95,7.7,Yes,Intermediate,Coaching,Yes,Medium,Low,High,Low,81,Good
+227,18,Female,10,55,82,90,91,6.1,Yes,Graduate,Online,Yes,Medium,Medium,Low,Medium,89,Good
+228,21,Male,3,99,90,65,50,5.1,Yes,Graduate,Self Study,Yes,Medium,Medium,Medium,Low,72,Average
+229,20,Female,3,75,60,62,69,5.6,No,Postgraduate,Online,No,Low,High,High,Low,62,Average
+230,18,Male,10,84,46,57,64,7.4,Yes,Graduate,Group Study,Yes,Medium,High,High,Low,83,Good
+231,22,Male,6,67,45,71,44,5.7,No,Postgraduate,Group Study,No,High,High,Low,Medium,53,Pass
+232,20,Male,3,88,71,88,72,6.7,No,Intermediate,Self Study,Yes,High,High,Medium,Low,84,Good
+233,19,Male,2,58,59,77,52,5.0,No,School,Group Study,Yes,Low,High,Medium,Medium,38,Fail
+234,19,Female,8,82,52,96,84,7.1,No,School,Coaching,Yes,High,Medium,Medium,Low,93,Excellent
+235,17,Female,5,92,53,86,39,5.9,Yes,School,Group Study,No,High,Medium,High,Low,78,Good
+236,22,Female,1,85,57,42,87,7.3,No,School,Group Study,Yes,High,Medium,Medium,Medium,64,Average
+237,21,Male,3,81,89,77,63,8.1,No,Intermediate,Group Study,Yes,Low,Medium,Medium,High,61,Average
+238,20,Male,10,59,72,42,73,7.3,Yes,School,Online,Yes,Low,Low,Medium,High,74,Average
+239,18,Male,8,79,88,69,94,5.8,No,Graduate,Online,Yes,High,Medium,Medium,Medium,91,Excellent
+240,22,Female,4,57,52,100,68,5.7,No,Graduate,Self Study,Yes,Low,Low,Low,Medium,61,Average
+241,22,Male,7,87,60,40,77,6.0,No,School,Self Study,Yes,Medium,Medium,Low,High,75,Good
+242,19,Female,10,58,40,69,79,5.2,Yes,Graduate,Self Study,Yes,High,High,Low,High,86,Good
+243,17,Female,2,79,38,84,57,5.3,No,Postgraduate,Group Study,Yes,Low,High,Medium,High,46,Pass
+244,17,Female,7,74,78,71,39,8.1,No,Intermediate,Online,Yes,Low,High,Medium,Medium,49,Pass
+245,20,Female,5,88,85,67,64,6.2,Yes,School,Coaching,Yes,High,Low,High,Low,80,Good
+246,19,Female,5,80,63,60,40,6.5,Yes,School,Group Study,Yes,Low,Medium,High,Medium,58,Pass
+247,22,Female,6,59,68,97,90,7.2,No,Intermediate,Group Study,No,High,Medium,High,High,80,Good
+248,21,Male,9,89,51,85,92,7.2,No,Graduate,Group Study,No,Low,Low,Medium,Low,92,Excellent
+249,19,Male,6,82,77,52,95,4.8,Yes,Intermediate,Coaching,No,Medium,Low,Low,Medium,75,Good
+250,20,Female,8,83,77,66,80,8.2,No,Intermediate,Self Study,Yes,High,Low,Low,High,86,Good
+251,20,Female,7,63,87,75,78,5.3,Yes,Graduate,Coaching,No,Medium,Low,Low,Medium,72,Average
+252,19,Male,9,92,50,46,38,7.8,No,Intermediate,Self Study,Yes,High,Low,Medium,Low,71,Average
+253,20,Female,4,60,36,61,63,8.0,Yes,Graduate,Coaching,Yes,Low,High,Low,High,57,Pass
+254,19,Female,2,73,68,49,57,7.7,No,Graduate,Online,Yes,Medium,Medium,High,Medium,87,Good
+255,18,Male,7,98,89,78,40,7.1,Yes,Intermediate,Group Study,Yes,Low,Low,High,Low,80,Good
+256,19,Female,6,65,42,92,66,4.6,Yes,Postgraduate,Group Study,No,High,High,Low,Low,70,Average
+257,19,Female,1,56,47,54,76,6.1,Yes,Graduate,Group Study,Yes,High,Low,High,Medium,67,Average
+258,20,Female,9,98,76,54,52,7.2,Yes,Intermediate,Self Study,Yes,High,High,Low,Low,57,Pass
+259,20,Male,9,98,42,43,49,6.2,Yes,Graduate,Coaching,Yes,High,Low,Low,High,68,Average
+260,17,Male,2,63,64,71,74,8.4,No,Postgraduate,Online,Yes,High,Medium,High,Low,73,Average
+261,17,Male,3,75,66,62,92,5.9,No,Postgraduate,Coaching,Yes,Medium,Low,High,Medium,83,Good
+262,18,Female,5,78,70,94,66,5.8,Yes,School,Group Study,Yes,High,Low,High,High,85,Good
+263,17,Female,5,88,81,45,43,5.7,No,Graduate,Online,Yes,Low,Medium,High,Low,70,Average
+264,19,Male,1,76,64,63,71,6.0,No,Graduate,Online,Yes,Medium,Medium,Low,Low,48,Pass
+265,20,Female,8,57,35,59,44,7.0,No,Intermediate,Group Study,Yes,Low,Low,High,High,63,Average
+266,17,Female,8,66,77,97,54,7.7,No,Graduate,Coaching,Yes,High,Medium,High,High,94,Excellent
+267,17,Female,4,82,73,76,40,7.5,No,School,Group Study,Yes,Low,Medium,Medium,Low,55,Pass
+268,18,Female,7,84,51,59,82,8.1,No,Postgraduate,Coaching,No,Medium,High,High,High,85,Good
+269,22,Female,10,80,54,51,90,8.5,Yes,Postgraduate,Online,Yes,Medium,Medium,High,Medium,95,Excellent
+270,18,Male,3,75,58,72,93,8.2,No,School,Online,Yes,Medium,Medium,Low,Low,61,Average
+271,19,Female,6,82,84,67,37,4.6,No,Graduate,Group Study,Yes,Low,Low,Low,Medium,66,Average
+272,20,Male,10,80,56,47,76,7.8,No,Graduate,Online,Yes,Medium,Low,Medium,Low,80,Good
+273,18,Female,10,87,63,40,45,5.4,Yes,School,Self Study,Yes,Low,High,High,Medium,65,Average
+274,17,Male,9,75,56,76,77,5.1,No,Intermediate,Online,Yes,High,Low,High,Medium,71,Average
+275,20,Female,1,89,78,61,51,7.4,No,Postgraduate,Self Study,Yes,High,Medium,High,High,69,Average
+276,20,Male,5,88,43,45,66,5.9,No,School,Online,Yes,Low,Medium,High,Low,62,Average
+277,17,Female,4,95,71,100,38,4.8,Yes,School,Group Study,Yes,Medium,Medium,High,High,60,Average
+278,18,Male,8,72,44,60,38,5.1,No,Graduate,Group Study,Yes,Low,Low,High,High,53,Pass
+279,17,Female,1,65,70,71,51,4.5,Yes,Postgraduate,Self Study,Yes,Low,Medium,Medium,Low,46,Pass
+280,22,Male,9,77,71,74,75,8.6,No,Graduate,Group Study,Yes,Low,Medium,High,Medium,74,Average
+281,20,Female,6,76,62,54,53,4.6,Yes,School,Online,No,High,High,High,Low,65,Average
+282,21,Male,4,71,62,44,39,5.4,Yes,Intermediate,Online,Yes,Low,High,High,Low,59,Pass
+283,21,Male,9,59,76,99,66,6.4,Yes,Postgraduate,Group Study,Yes,High,High,Medium,Low,75,Good
+284,19,Female,5,98,77,95,56,6.1,No,School,Online,Yes,Low,Low,High,High,86,Good
+285,17,Female,5,65,55,85,90,8.6,Yes,School,Coaching,No,High,Medium,Medium,Low,85,Good
+286,17,Male,5,84,58,89,40,4.7,Yes,Intermediate,Coaching,Yes,Low,Medium,Low,Low,58,Pass
+287,19,Female,1,69,76,87,69,6.8,Yes,School,Online,Yes,Low,Medium,High,Low,70,Average
+288,19,Male,1,81,74,45,56,7.6,Yes,School,Group Study,Yes,Medium,High,Medium,Medium,59,Pass
+289,19,Male,8,89,36,64,35,8.7,No,Postgraduate,Self Study,No,Medium,Medium,Low,Medium,54,Pass
+290,20,Male,8,87,89,95,54,7.3,No,Postgraduate,Group Study,No,Low,Medium,Medium,Medium,72,Average
+291,22,Female,6,74,42,85,56,8.1,No,Postgraduate,Self Study,Yes,Low,Medium,Medium,Medium,70,Average
+292,17,Male,4,70,82,98,82,4.9,No,Graduate,Group Study,Yes,Low,Medium,Low,High,71,Average
+293,20,Male,2,88,61,95,89,6.2,Yes,Intermediate,Online,Yes,Low,Medium,High,High,85,Good
+294,19,Female,2,56,56,79,45,6.2,No,Postgraduate,Coaching,Yes,Medium,Low,High,Low,44,Pass
+295,17,Female,9,89,71,68,47,8.5,Yes,Graduate,Group Study,Yes,High,Medium,Medium,High,69,Average
+296,20,Female,5,94,61,46,93,5.2,No,Graduate,Self Study,Yes,Low,Low,Low,Medium,60,Average
+297,22,Female,4,82,63,79,76,5.2,No,Intermediate,Coaching,Yes,Medium,Medium,High,Low,74,Average
+298,20,Male,10,93,37,52,37,6.0,No,Intermediate,Self Study,Yes,Low,Low,Medium,Low,53,Pass
+299,22,Male,1,60,78,77,43,4.7,Yes,School,Online,Yes,Low,Medium,Low,Medium,55,Pass
+300,19,Male,7,63,47,57,94,5.3,No,Graduate,Coaching,Yes,High,Medium,Medium,Medium,81,Good
+301,22,Male,3,74,79,41,46,8.8,No,Postgraduate,Self Study,Yes,Low,Medium,Low,Medium,69,Average
+302,17,Female,6,55,44,47,57,6.4,No,Intermediate,Group Study,No,Low,Medium,High,High,69,Average
+303,19,Male,5,62,70,50,48,7.3,Yes,Graduate,Online,Yes,High,High,High,Low,57,Pass
+304,17,Male,5,77,43,72,67,7.8,No,Postgraduate,Online,Yes,High,Medium,Medium,Medium,59,Pass
+305,21,Female,5,57,88,93,52,6.2,No,Graduate,Online,Yes,High,Low,High,Low,69,Average
+306,18,Male,1,58,90,100,83,5.2,Yes,Intermediate,Group Study,Yes,High,High,High,Low,80,Good
+307,22,Male,1,79,89,77,93,5.4,Yes,School,Group Study,Yes,Medium,High,Low,High,69,Average
+308,18,Male,3,92,61,87,75,5.9,No,Graduate,Coaching,Yes,Medium,Medium,High,Low,75,Good
+309,18,Male,10,69,68,66,43,7.4,No,Postgraduate,Group Study,Yes,Medium,Low,Low,Medium,67,Average
+310,22,Male,4,75,85,59,57,6.3,No,Intermediate,Coaching,Yes,Low,Low,Low,Medium,77,Good
+311,19,Male,5,89,35,51,44,4.5,Yes,School,Online,Yes,High,High,Medium,Low,48,Pass
+312,21,Female,2,100,66,82,53,6.9,Yes,Postgraduate,Coaching,No,High,Low,Low,Low,69,Average
+313,17,Female,8,68,59,100,95,8.6,Yes,Postgraduate,Self Study,Yes,Medium,Medium,High,High,100,Excellent
+314,20,Male,2,90,63,70,81,8.2,No,Postgraduate,Online,No,Low,Medium,Low,Medium,82,Good
+315,17,Male,9,66,41,66,39,8.2,Yes,Graduate,Online,No,Low,Medium,Low,Medium,54,Pass
+316,20,Female,2,71,83,71,81,8.1,No,Intermediate,Coaching,Yes,Low,Medium,Medium,Low,77,Good
+317,17,Male,9,93,37,100,86,6.0,Yes,Postgraduate,Online,Yes,Medium,Medium,High,Low,81,Good
+318,22,Male,7,63,54,49,57,7.9,Yes,Graduate,Group Study,Yes,Low,High,High,Low,72,Average
+319,21,Male,8,89,54,42,64,5.1,Yes,Intermediate,Self Study,Yes,Low,Medium,High,Medium,84,Good
+320,20,Female,2,67,87,84,59,7.5,No,Intermediate,Coaching,Yes,Low,Medium,Low,Low,55,Pass
+321,19,Male,7,69,64,66,62,7.4,No,Graduate,Coaching,No,High,High,High,High,77,Good
+322,17,Female,6,72,69,74,68,4.6,No,Graduate,Online,Yes,Medium,High,High,High,80,Good
+323,17,Male,4,87,69,70,79,8.0,No,Postgraduate,Group Study,Yes,High,High,Low,Low,69,Average
+324,20,Female,7,60,83,54,90,8.6,Yes,Intermediate,Online,Yes,High,Low,Medium,High,90,Excellent
+325,19,Female,4,81,73,55,82,5.7,No,School,Online,Yes,Medium,Low,Medium,High,81,Good
+326,19,Male,2,77,61,100,81,8.2,Yes,Graduate,Coaching,Yes,High,Medium,Low,High,94,Excellent
+327,22,Female,10,81,60,52,59,4.9,No,Intermediate,Online,Yes,Low,Medium,Medium,High,55,Pass
+328,22,Male,7,88,48,88,44,7.2,No,Intermediate,Self Study,Yes,Low,Medium,Medium,High,70,Average
+329,22,Female,8,100,51,74,48,6.7,Yes,Postgraduate,Online,Yes,Low,Low,Medium,Medium,65,Average
+330,22,Male,2,92,52,91,76,7.0,Yes,School,Online,Yes,Low,Medium,High,Low,72,Average
+331,22,Male,5,68,79,50,91,8.7,No,Postgraduate,Coaching,Yes,Medium,Medium,Medium,High,72,Average
+332,22,Female,1,90,86,98,80,8.4,No,School,Online,Yes,High,Low,High,Low,83,Good
+333,21,Male,7,62,63,60,92,8.0,Yes,School,Group Study,Yes,High,High,Medium,High,72,Average
+334,19,Male,8,89,54,90,64,5.7,Yes,Graduate,Coaching,Yes,Low,Low,High,Medium,81,Good
+335,22,Female,6,73,87,93,89,8.6,Yes,Intermediate,Online,Yes,Low,Medium,Low,Medium,91,Excellent
+336,19,Male,5,84,61,50,75,4.9,Yes,Intermediate,Self Study,Yes,High,Low,Low,High,70,Average
+337,19,Male,6,68,52,69,59,8.3,Yes,Intermediate,Self Study,Yes,Medium,High,Medium,High,80,Good
+338,18,Female,2,74,38,99,48,6.0,No,School,Coaching,Yes,High,High,High,High,72,Average
+339,21,Female,1,79,35,87,69,4.7,No,Intermediate,Coaching,Yes,Low,High,Low,Medium,70,Average
+340,22,Male,7,94,84,92,86,7.5,No,Graduate,Online,Yes,Low,High,Low,Medium,84,Good
+341,17,Male,7,78,35,74,82,5.5,No,School,Group Study,Yes,Medium,High,Low,Low,65,Average
+342,20,Female,10,68,60,61,68,5.6,Yes,School,Online,Yes,High,High,Low,Medium,59,Pass
+343,17,Female,10,80,79,77,44,5.9,Yes,School,Self Study,No,Medium,Medium,Medium,High,70,Average
+344,21,Male,2,92,54,70,69,4.8,Yes,School,Group Study,Yes,Medium,Medium,High,Low,66,Average
+345,20,Female,2,77,86,53,45,5.3,No,Graduate,Group Study,Yes,Low,Low,Low,Medium,56,Pass
+346,21,Male,1,76,57,63,45,4.5,Yes,Intermediate,Group Study,Yes,High,Medium,Medium,Medium,77,Good
+347,19,Male,10,73,44,89,55,6.5,Yes,Graduate,Online,Yes,Low,High,Low,High,66,Average
+348,20,Male,8,100,45,88,55,4.9,No,Intermediate,Self Study,No,High,Medium,Low,Low,56,Pass
+349,19,Male,8,57,75,71,56,7.6,No,Graduate,Coaching,Yes,Low,Low,Low,Medium,74,Average
+350,17,Male,1,96,75,75,79,5.6,No,Postgraduate,Online,No,Low,High,Low,Medium,68,Average
+351,17,Female,8,73,39,71,41,8.7,Yes,Postgraduate,Coaching,Yes,High,Medium,Medium,High,68,Average
+352,20,Female,9,63,35,94,89,8.4,Yes,Postgraduate,Group Study,Yes,High,Medium,High,Low,100,Excellent
+353,20,Female,4,82,51,54,51,5.8,No,Postgraduate,Group Study,Yes,Low,Low,Medium,Low,44,Pass
+354,22,Female,1,74,56,82,36,8.0,No,School,Online,Yes,High,High,Medium,Low,67,Average
+355,21,Male,1,99,68,97,46,8.1,Yes,School,Self Study,Yes,Low,Low,Medium,Low,67,Average
+356,22,Male,3,61,90,74,91,8.9,No,Graduate,Group Study,Yes,High,High,Low,High,68,Average
+357,21,Male,5,68,79,42,76,7.2,Yes,Graduate,Coaching,Yes,Low,High,High,Medium,87,Good
+358,22,Male,5,63,75,55,52,4.9,No,Postgraduate,Coaching,Yes,Low,Medium,Low,Medium,62,Average
+359,19,Female,9,73,63,44,88,7.4,No,Intermediate,Online,No,Low,Low,Medium,Low,72,Average
+360,20,Male,10,68,38,60,93,7.3,No,Postgraduate,Coaching,Yes,Medium,Low,Low,Low,74,Average
+361,17,Male,2,92,39,100,45,7.4,Yes,Graduate,Self Study,Yes,High,Low,High,Low,74,Average
+362,21,Female,2,90,45,49,50,5.9,Yes,Postgraduate,Group Study,Yes,Low,High,High,Medium,52,Pass
+363,21,Female,6,94,90,58,83,8.4,No,Graduate,Coaching,Yes,Medium,Low,Low,Medium,94,Excellent
+364,17,Female,9,71,85,64,85,8.8,Yes,Postgraduate,Coaching,Yes,Low,High,Medium,Low,80,Good
+365,22,Female,1,84,55,43,52,5.5,No,Intermediate,Group Study,Yes,Medium,Low,Low,High,65,Average
+366,21,Male,9,63,69,100,69,4.9,No,Postgraduate,Online,Yes,Low,Low,Medium,Medium,79,Good
+367,19,Male,9,87,46,68,87,5.4,Yes,Intermediate,Coaching,Yes,Low,Medium,High,Medium,87,Good
+368,20,Female,9,79,60,58,93,8.2,Yes,Intermediate,Online,Yes,Medium,Low,Low,Low,93,Excellent
+369,17,Male,5,68,85,82,60,7.5,Yes,Graduate,Online,Yes,Medium,Medium,High,High,92,Excellent
+370,20,Male,9,65,53,41,50,7.4,Yes,Intermediate,Coaching,Yes,High,Medium,Medium,Low,71,Average
+371,21,Male,4,89,79,49,40,6.3,No,School,Self Study,Yes,High,High,Medium,Low,55,Pass
+372,21,Female,2,95,41,100,91,7.1,Yes,School,Online,Yes,Medium,Low,Low,High,78,Good
+373,17,Male,6,68,81,82,78,5.9,Yes,School,Coaching,Yes,High,Low,Low,High,80,Good
+374,19,Female,4,84,89,64,77,6.6,No,Graduate,Online,No,Medium,Low,Low,High,70,Average
+375,18,Male,6,95,41,59,81,8.1,No,School,Group Study,Yes,High,Medium,High,Medium,75,Good
+376,17,Male,3,58,60,87,81,8.9,No,Graduate,Self Study,Yes,Low,Low,Medium,Low,71,Average
+377,18,Male,6,58,74,58,82,8.7,No,Graduate,Self Study,Yes,High,High,Medium,Medium,66,Average
+378,22,Female,2,82,39,62,76,8.7,Yes,School,Group Study,Yes,Low,High,High,High,57,Pass
+379,18,Male,2,62,55,63,46,6.3,Yes,Intermediate,Group Study,Yes,Low,Low,Low,Medium,40,Pass
+380,19,Female,9,56,48,50,94,6.6,No,Postgraduate,Online,Yes,High,Medium,Low,High,79,Good
+381,22,Female,7,95,38,85,47,7.7,No,Graduate,Group Study,Yes,Medium,High,High,High,76,Good
+382,18,Female,3,100,57,73,38,8.6,Yes,School,Self Study,No,Low,High,Medium,Low,56,Pass
+383,22,Male,1,76,76,94,73,5.1,Yes,Graduate,Group Study,Yes,Low,Medium,Medium,Low,75,Good
+384,18,Male,8,95,54,67,88,5.9,Yes,Intermediate,Coaching,Yes,High,High,Medium,Low,72,Average
+385,19,Male,6,70,49,44,36,5.1,Yes,Intermediate,Coaching,Yes,Medium,Medium,Medium,Medium,60,Average
+386,18,Male,7,83,84,98,60,7.3,Yes,School,Online,Yes,Medium,High,High,Low,81,Good
+387,18,Female,9,84,86,44,93,5.9,No,Graduate,Self Study,Yes,High,Medium,Medium,High,81,Good
+388,18,Female,5,66,79,90,61,6.0,No,Postgraduate,Coaching,No,Medium,High,High,Low,64,Average
+389,17,Female,1,89,63,60,61,4.8,No,Postgraduate,Group Study,Yes,High,Low,Low,Medium,59,Pass
+390,17,Male,10,65,42,51,49,6.1,No,Graduate,Coaching,Yes,High,High,High,Low,67,Average
+391,17,Female,7,100,75,89,42,8.4,Yes,Graduate,Coaching,Yes,High,High,Medium,Low,82,Good
+392,19,Male,5,75,82,43,41,5.5,No,Graduate,Online,Yes,Low,Low,Low,Low,53,Pass
+393,22,Female,3,75,53,93,81,7.6,Yes,School,Group Study,No,Low,Low,High,Medium,69,Average
+394,21,Male,9,59,82,88,89,7.3,Yes,Intermediate,Group Study,Yes,Low,Low,High,High,90,Excellent
+395,18,Male,1,74,73,81,80,8.4,Yes,Postgraduate,Group Study,Yes,High,Low,High,High,68,Average
+396,18,Female,1,91,80,59,74,5.1,Yes,School,Online,Yes,Low,Medium,Low,High,65,Average
+397,19,Female,1,57,62,77,94,8.9,Yes,Graduate,Group Study,Yes,Low,Medium,High,Low,82,Good
+398,18,Female,3,98,80,64,46,7.1,Yes,Graduate,Group Study,Yes,Low,High,Medium,Low,57,Pass
+399,17,Female,6,87,61,53,47,9.0,Yes,Intermediate,Coaching,Yes,High,High,Low,Medium,66,Average
+400,21,Male,10,63,38,50,77,8.6,No,Graduate,Coaching,Yes,High,High,Low,High,80,Good
+401,20,Female,3,63,49,71,51,5.5,Yes,School,Group Study,Yes,High,Medium,High,Low,67,Average
+402,18,Female,8,58,69,50,95,4.8,No,School,Self Study,No,Low,High,Medium,Low,65,Average
+403,17,Female,10,89,71,100,51,5.7,No,Intermediate,Self Study,Yes,Medium,High,Low,Low,74,Average
+404,20,Male,2,71,35,57,90,6.9,Yes,School,Group Study,Yes,Low,Medium,High,Medium,56,Pass
+405,21,Male,9,88,37,66,70,5.3,Yes,Postgraduate,Self Study,Yes,Low,High,Medium,High,74,Average
+406,20,Female,3,78,81,94,55,5.3,No,School,Online,Yes,High,Medium,High,Medium,64,Average
+407,17,Male,5,86,58,93,42,6.6,No,School,Coaching,No,High,Medium,High,High,56,Pass
+408,22,Female,10,55,61,57,39,4.6,No,School,Online,Yes,Low,Low,Low,High,68,Average
+409,22,Male,8,62,74,95,60,5.0,No,Postgraduate,Coaching,Yes,Low,Low,Low,Low,72,Average
+410,20,Male,2,99,70,62,50,6.4,Yes,Graduate,Self Study,Yes,Medium,Medium,High,Low,75,Good
+411,19,Male,6,77,68,50,70,4.8,Yes,School,Self Study,Yes,Medium,Medium,Low,Low,59,Pass
+412,20,Male,5,94,63,60,62,6.3,Yes,Intermediate,Group Study,Yes,High,Low,Low,Low,76,Good
+413,18,Female,10,66,58,83,88,6.6,No,Postgraduate,Self Study,Yes,Medium,High,Medium,Low,75,Good
+414,18,Female,9,66,58,44,63,6.5,Yes,Intermediate,Self Study,No,Medium,High,Medium,High,64,Average
+415,22,Female,5,100,76,62,81,8.4,No,School,Group Study,Yes,High,High,High,Low,89,Good
+416,19,Male,2,69,38,80,46,6.9,Yes,Intermediate,Group Study,No,Medium,Medium,High,Low,56,Pass
+417,17,Female,5,95,37,98,71,6.6,No,School,Coaching,Yes,Low,Low,High,Medium,72,Average
+418,18,Female,4,73,68,64,64,6.3,Yes,Postgraduate,Self Study,Yes,Medium,High,High,Medium,57,Pass
+419,22,Female,7,80,83,80,57,8.2,Yes,Intermediate,Coaching,Yes,High,Low,Medium,High,88,Good
+420,21,Male,6,83,57,93,50,8.5,No,Intermediate,Coaching,Yes,Low,Low,Low,High,80,Good
+421,22,Male,2,76,87,49,48,8.3,No,School,Online,Yes,Medium,Medium,Medium,Medium,58,Pass
+422,18,Male,5,94,90,61,44,7.5,No,School,Self Study,No,Low,High,High,Medium,72,Average
+423,18,Female,7,75,86,58,41,5.1,No,Graduate,Self Study,No,Low,Low,High,Low,57,Pass
+424,22,Female,7,92,57,40,79,5.7,No,School,Online,No,Medium,Medium,Medium,Low,76,Good
+425,17,Female,5,74,79,46,86,4.7,Yes,School,Coaching,Yes,Medium,Medium,Medium,High,74,Average
+426,20,Male,9,83,39,43,94,8.7,No,Graduate,Self Study,No,High,Medium,High,Medium,84,Good
+427,18,Male,4,58,65,40,95,7.5,Yes,School,Coaching,Yes,High,High,Low,High,63,Average
+428,22,Female,3,61,87,54,71,7.9,Yes,School,Online,Yes,Low,High,High,Low,67,Average
+429,22,Male,4,82,75,79,63,5.9,Yes,Graduate,Group Study,Yes,High,Medium,Medium,High,72,Average
+430,19,Male,5,82,88,51,37,8.3,Yes,Postgraduate,Coaching,Yes,Low,High,High,High,63,Average
+431,20,Male,6,58,40,61,49,5.7,Yes,Postgraduate,Self Study,Yes,Low,High,High,High,45,Pass
+432,21,Male,3,76,71,61,70,4.5,No,School,Group Study,Yes,High,Low,Low,Low,59,Pass
+433,17,Female,2,66,44,89,81,6.2,No,School,Coaching,No,High,Medium,High,High,67,Average
+434,21,Male,4,99,74,86,80,7.1,Yes,Graduate,Coaching,Yes,High,Medium,High,Low,88,Good
+435,20,Male,5,57,41,56,86,6.7,Yes,Graduate,Group Study,Yes,Medium,High,High,Medium,72,Average
+436,20,Male,4,76,73,68,53,8.4,No,Postgraduate,Group Study,No,Low,Medium,Medium,High,61,Average
+437,20,Male,3,98,72,85,47,5.0,No,Intermediate,Group Study,Yes,Low,Medium,Medium,High,66,Average
+438,21,Female,8,56,55,53,76,7.0,Yes,School,Self Study,No,Low,Medium,Low,Low,75,Good
+439,20,Female,10,78,54,89,55,6.8,No,Intermediate,Self Study,Yes,High,High,High,High,81,Good
+440,22,Male,4,88,37,59,71,5.8,No,Intermediate,Coaching,Yes,High,High,Medium,Low,59,Pass
+441,21,Male,2,81,85,89,61,8.2,No,Graduate,Coaching,Yes,High,High,Low,High,58,Pass
+442,20,Male,2,95,56,87,89,7.9,Yes,School,Online,Yes,High,Low,High,Medium,79,Good
+443,22,Male,1,55,81,72,86,7.8,No,School,Self Study,Yes,High,Medium,Low,Medium,62,Average
+444,19,Male,4,62,38,94,63,8.4,Yes,Graduate,Coaching,Yes,Medium,Low,Low,Medium,84,Good
+445,20,Male,10,77,62,98,54,7.8,Yes,Intermediate,Group Study,Yes,High,High,Low,High,72,Average
+446,21,Female,9,92,46,82,59,5.5,Yes,Graduate,Group Study,No,Low,Low,Low,High,73,Average
+447,18,Male,7,60,72,54,40,7.7,Yes,Postgraduate,Self Study,Yes,High,Medium,Low,Medium,68,Average
+448,20,Female,10,76,85,51,70,5.9,Yes,School,Group Study,Yes,Low,Medium,Low,Medium,83,Good
+449,18,Female,7,79,70,79,36,5.6,No,Postgraduate,Online,Yes,High,High,Low,Low,62,Average
+450,22,Male,7,72,81,93,56,4.8,Yes,Graduate,Coaching,Yes,High,High,High,Low,71,Average
+451,19,Female,8,71,75,59,66,7.8,Yes,School,Coaching,Yes,Low,Low,High,Medium,74,Average
+452,17,Female,1,66,39,69,50,7.7,Yes,Postgraduate,Coaching,No,Low,High,Low,Medium,49,Pass
+453,19,Female,10,60,47,77,52,5.6,No,Postgraduate,Self Study,Yes,Low,Low,High,High,66,Average
+454,20,Female,10,80,57,42,39,7.9,No,Intermediate,Group Study,Yes,Low,Medium,Low,Medium,54,Pass
+455,18,Female,8,81,84,67,88,8.6,No,School,Online,Yes,Medium,Medium,High,Low,83,Good
+456,18,Female,4,62,64,95,70,5.0,No,Postgraduate,Self Study,Yes,Low,Medium,Medium,Low,54,Pass
+457,21,Male,4,73,71,65,64,5.5,No,Postgraduate,Coaching,Yes,High,Medium,Low,Low,79,Good
+458,18,Female,4,96,59,69,79,7.9,No,Intermediate,Online,Yes,High,Medium,Medium,Low,82,Good
+459,21,Female,6,55,82,52,53,5.7,No,Postgraduate,Coaching,Yes,Medium,Low,Low,Low,74,Average
+460,22,Female,7,83,61,52,57,7.3,Yes,Postgraduate,Coaching,Yes,Low,Medium,Low,Low,68,Average
+461,17,Male,6,99,85,41,68,4.9,Yes,Postgraduate,Self Study,Yes,High,Low,Medium,Medium,92,Excellent
+462,20,Female,1,89,48,76,47,6.5,No,Intermediate,Coaching,Yes,Medium,Medium,Medium,Low,62,Average
+463,21,Male,8,94,82,88,77,7.8,Yes,Postgraduate,Online,Yes,High,Low,Medium,Low,98,Excellent
+464,17,Female,10,68,81,77,88,7.6,Yes,Postgraduate,Coaching,Yes,Medium,Low,Low,Low,68,Average
+465,18,Male,7,89,88,41,63,8.2,No,School,Group Study,No,Medium,Low,Medium,Low,68,Average
+466,18,Male,6,99,70,75,70,8.4,Yes,School,Coaching,Yes,Low,High,Medium,Medium,77,Good
+467,17,Female,6,74,73,93,56,8.0,Yes,Intermediate,Self Study,Yes,Medium,Low,High,High,83,Good
+468,18,Female,5,67,50,65,86,7.5,No,Graduate,Online,Yes,High,Low,High,High,79,Good
+469,22,Male,6,92,90,50,86,4.6,Yes,School,Self Study,No,High,Medium,Medium,High,85,Good
+470,22,Female,9,100,56,47,81,6.9,No,Intermediate,Group Study,No,Low,Low,Medium,High,83,Good
+471,17,Male,10,62,55,83,70,4.7,No,Postgraduate,Coaching,No,Low,Low,Medium,Low,77,Good
+472,21,Male,9,97,88,79,43,8.1,Yes,Postgraduate,Self Study,Yes,Medium,High,Medium,High,87,Good
+473,21,Male,10,74,55,82,73,5.9,Yes,Intermediate,Self Study,Yes,Low,Medium,High,High,90,Excellent
+474,17,Male,8,87,42,61,85,7.0,Yes,Postgraduate,Self Study,Yes,High,High,Low,Medium,85,Good
+475,21,Male,10,80,83,59,53,5.8,No,Postgraduate,Self Study,Yes,High,High,Medium,Medium,77,Good
+476,21,Female,9,93,50,47,72,8.0,No,Graduate,Group Study,Yes,Low,High,Medium,Medium,89,Good
+477,22,Male,10,75,89,68,40,8.5,No,Postgraduate,Group Study,Yes,Low,Low,High,Low,88,Good
+478,21,Male,8,96,65,79,86,6.3,Yes,School,Coaching,Yes,Low,High,Medium,Low,72,Average
+479,19,Female,8,97,76,65,81,8.4,Yes,Postgraduate,Coaching,Yes,Medium,High,Medium,Low,86,Good
+480,20,Male,1,95,44,69,49,5.7,No,Intermediate,Online,Yes,Medium,Medium,High,Medium,48,Pass
+481,18,Female,10,63,66,56,91,6.9,Yes,Graduate,Group Study,Yes,High,Medium,Medium,High,72,Average
+482,19,Female,5,78,68,59,54,8.4,Yes,Postgraduate,Self Study,No,Medium,Medium,Medium,Medium,65,Average
+483,21,Female,4,91,43,91,43,6.0,No,Intermediate,Self Study,Yes,Medium,Medium,High,Low,59,Pass
+484,22,Male,2,95,51,94,66,8.8,No,School,Online,Yes,Medium,High,Low,Medium,65,Average
+485,17,Male,8,71,45,55,38,5.0,Yes,Postgraduate,Self Study,Yes,Medium,Medium,Medium,High,65,Average
+486,21,Male,3,78,66,85,84,4.6,No,Graduate,Online,Yes,High,Low,Medium,Low,85,Good
+487,22,Female,4,75,44,82,52,8.6,Yes,Postgraduate,Coaching,Yes,Low,High,Low,High,70,Average
+488,20,Male,7,93,56,46,39,4.8,No,Intermediate,Group Study,Yes,High,Medium,High,High,72,Average
+489,21,Female,10,95,51,55,54,9.0,No,Graduate,Online,Yes,Medium,High,Low,Low,62,Average
+490,17,Male,9,93,38,84,57,8.8,No,Postgraduate,Self Study,Yes,Low,Medium,Medium,High,73,Average
+491,22,Female,2,67,82,98,45,5.1,Yes,School,Online,No,Low,High,Low,Medium,60,Average
+492,22,Male,3,65,86,86,71,6.9,Yes,Graduate,Coaching,Yes,Low,Medium,High,High,68,Average
+493,22,Male,4,100,81,95,56,5.3,No,School,Self Study,Yes,High,Low,Medium,High,72,Average
+494,20,Male,10,73,59,87,92,6.4,No,Intermediate,Coaching,Yes,Low,Medium,High,High,90,Excellent
+495,21,Female,1,65,55,66,38,4.8,No,Postgraduate,Coaching,No,High,High,High,Medium,51,Pass
+496,20,Female,7,67,71,92,63,5.5,Yes,School,Online,Yes,High,High,Low,High,71,Average
+497,18,Male,2,100,72,62,78,6.1,No,Intermediate,Coaching,Yes,Medium,Low,Low,High,83,Good
+498,18,Male,5,99,83,63,68,6.5,No,Postgraduate,Self Study,No,Medium,High,High,Medium,84,Good
+499,21,Female,1,55,35,48,47,8.9,No,Intermediate,Coaching,No,Low,Low,High,Low,63,Average
+500,20,Female,3,94,59,74,76,8.1,No,School,Coaching,No,Low,High,Medium,Low,61,Average
+501,17,Female,2,98,85,90,43,7.8,Yes,Intermediate,Online,Yes,Medium,High,High,Low,74,Average
+502,22,Male,1,73,70,59,76,6.9,Yes,Graduate,Coaching,Yes,High,Low,High,High,75,Good
+503,22,Female,7,66,51,76,65,8.3,No,Postgraduate,Group Study,No,High,High,Low,Low,68,Average
+504,21,Male,5,62,75,81,41,6.0,Yes,Intermediate,Online,Yes,Medium,High,High,Medium,56,Pass
+505,18,Female,1,62,58,56,38,7.7,Yes,School,Online,Yes,High,Low,High,High,51,Pass
+506,18,Male,6,99,36,86,53,9.0,Yes,Postgraduate,Self Study,Yes,Medium,Medium,Low,High,74,Average
+507,22,Female,5,66,74,70,76,5.9,No,Graduate,Self Study,Yes,Medium,Low,Medium,High,69,Average
+508,21,Female,3,87,49,94,64,7.5,Yes,Postgraduate,Self Study,No,Low,High,Low,Low,68,Average
+509,20,Female,7,99,66,96,65,8.3,Yes,Graduate,Self Study,Yes,Low,Medium,Low,Low,66,Average
+510,18,Female,10,80,73,47,69,8.6,Yes,Postgraduate,Group Study,Yes,Medium,Medium,High,Low,70,Average
+511,20,Female,9,93,40,54,91,7.7,No,Intermediate,Online,No,Low,Medium,High,High,77,Good
+512,18,Male,9,82,35,70,55,5.8,No,Intermediate,Coaching,Yes,Medium,Low,Medium,Medium,60,Average
+513,18,Female,9,59,81,92,95,6.0,Yes,School,Self Study,Yes,High,Medium,High,High,100,Excellent
+514,19,Female,2,62,57,69,65,4.6,Yes,Graduate,Self Study,Yes,High,Medium,Medium,Medium,62,Average
+515,18,Female,3,79,73,85,53,7.9,No,School,Self Study,Yes,High,Medium,Medium,High,69,Average
+516,17,Male,7,81,51,59,65,4.7,No,Intermediate,Coaching,Yes,High,High,Medium,Medium,72,Average
+517,21,Female,5,100,68,99,87,8.4,Yes,Graduate,Self Study,Yes,Medium,Low,Medium,High,99,Excellent
+518,21,Male,2,77,75,78,66,5.0,Yes,School,Coaching,Yes,High,Low,High,High,78,Good
+519,20,Female,3,84,63,92,36,5.3,No,School,Online,Yes,High,High,Low,Medium,59,Pass
+520,18,Female,10,99,43,94,93,6.6,No,School,Online,Yes,High,Medium,Low,Medium,82,Good
+521,17,Male,6,77,47,51,86,7.8,Yes,School,Online,Yes,High,High,High,Medium,81,Good
+522,20,Female,7,74,40,88,44,5.1,No,School,Group Study,Yes,Medium,High,High,Medium,76,Good
+523,19,Male,9,72,40,56,36,6.5,Yes,Graduate,Coaching,Yes,High,Medium,Medium,Medium,64,Average
+524,20,Male,1,72,54,81,36,6.7,Yes,School,Self Study,Yes,Low,Medium,High,Medium,50,Pass
+525,20,Female,7,56,86,69,94,5.5,Yes,Graduate,Self Study,Yes,Low,Low,Low,Medium,78,Good
+526,18,Male,8,58,87,68,58,5.0,No,School,Self Study,Yes,Low,Medium,High,Medium,70,Average
+527,19,Female,3,84,37,58,51,8.3,Yes,Intermediate,Self Study,Yes,Low,High,High,High,51,Pass
+528,20,Female,4,87,51,85,66,6.8,Yes,Intermediate,Group Study,No,Low,High,Medium,Medium,61,Average
+529,17,Male,10,90,83,50,50,4.6,No,School,Self Study,Yes,Low,Medium,Medium,Medium,86,Good
+530,17,Male,6,72,46,73,50,8.1,No,Postgraduate,Group Study,Yes,Medium,Low,Medium,High,60,Average
+531,21,Male,10,91,82,89,80,8.9,Yes,Intermediate,Coaching,Yes,Low,High,Medium,High,84,Good
+532,19,Male,7,73,81,46,73,7.2,Yes,Graduate,Online,No,High,Medium,Low,Low,63,Average
+533,19,Female,4,82,79,83,87,6.8,No,School,Self Study,Yes,Low,Low,High,Low,73,Average
+534,21,Female,8,94,89,97,65,8.5,No,Graduate,Online,Yes,Medium,Low,High,Medium,90,Excellent
+535,20,Male,5,74,35,73,77,8.8,No,Postgraduate,Coaching,Yes,Low,High,Medium,Medium,70,Average
+536,19,Female,1,87,51,98,58,7.9,Yes,School,Coaching,Yes,High,High,Low,Low,75,Good
+537,17,Female,4,66,37,59,35,6.5,Yes,Intermediate,Self Study,Yes,High,Low,Low,Low,56,Pass
+538,17,Female,3,69,60,89,45,7.2,Yes,Graduate,Coaching,Yes,Medium,Low,High,Medium,64,Average
+539,18,Female,9,95,49,77,89,7.7,No,Intermediate,Online,Yes,Medium,Low,Medium,Low,99,Excellent
+540,19,Male,8,93,70,63,55,5.4,Yes,Intermediate,Self Study,Yes,Medium,Medium,High,Medium,61,Average
+541,20,Male,1,56,66,49,38,6.5,No,School,Group Study,Yes,Medium,High,High,High,57,Pass
+542,21,Female,6,83,66,71,41,8.2,Yes,Graduate,Self Study,Yes,Low,Low,Low,High,60,Average
+543,21,Male,9,95,38,91,60,7.4,No,Postgraduate,Online,Yes,Low,High,Low,Low,68,Average
+544,20,Male,7,64,52,54,81,6.4,Yes,Intermediate,Self Study,Yes,High,High,High,High,79,Good
+545,22,Male,4,56,83,76,84,7.5,Yes,School,Self Study,Yes,Medium,High,Medium,High,61,Average
+546,18,Female,1,65,53,59,46,5.0,No,School,Online,Yes,Medium,Low,Medium,High,57,Pass
+547,21,Female,2,67,77,42,65,6.3,No,Postgraduate,Self Study,No,Low,Medium,High,High,62,Average
+548,19,Female,5,64,86,76,51,8.1,Yes,School,Self Study,Yes,Medium,Low,High,Medium,88,Good
+549,18,Male,5,68,69,96,67,5.5,No,Intermediate,Online,No,High,High,Medium,Medium,92,Excellent
+550,19,Female,8,72,74,79,45,5.3,No,School,Coaching,Yes,High,Low,Medium,Low,61,Average
+551,17,Female,6,63,48,47,62,8.8,Yes,Graduate,Online,No,Medium,Low,Medium,High,79,Good
+552,18,Male,8,93,67,79,66,5.4,No,Graduate,Self Study,Yes,High,High,High,High,81,Good
+553,21,Female,2,82,48,83,35,5.7,Yes,Intermediate,Group Study,Yes,High,High,Low,High,50,Pass
+554,18,Female,3,57,68,95,81,8.9,Yes,Graduate,Group Study,Yes,Low,Low,Medium,Low,76,Good
+555,18,Male,6,74,89,62,62,7.8,No,Postgraduate,Online,Yes,High,Low,Medium,Medium,69,Average
+556,18,Male,10,60,38,79,87,7.6,No,School,Group Study,Yes,Medium,Low,Medium,High,72,Average
+557,22,Male,3,81,58,50,76,8.3,Yes,Intermediate,Self Study,Yes,Medium,Low,High,Medium,61,Average
+558,18,Female,6,56,63,85,41,5.0,Yes,Postgraduate,Self Study,Yes,High,Medium,Low,Low,65,Average
+559,19,Female,6,83,53,47,36,7.7,Yes,School,Online,Yes,Medium,Low,Low,Medium,65,Average
+560,17,Female,2,92,40,68,76,6.8,Yes,Postgraduate,Self Study,Yes,Low,Medium,Medium,High,61,Average
+561,20,Male,7,57,67,69,58,8.2,Yes,Intermediate,Coaching,Yes,High,High,High,Medium,85,Good
+562,18,Male,2,70,83,95,38,6.8,Yes,Intermediate,Self Study,Yes,High,Medium,Low,Medium,60,Average
+563,21,Female,6,84,74,99,78,7.3,No,Postgraduate,Online,Yes,High,High,High,Low,93,Excellent
+564,18,Female,1,94,53,49,53,6.6,No,School,Coaching,Yes,Medium,Medium,Low,Low,57,Pass
+565,21,Male,3,56,87,78,60,6.7,No,Graduate,Coaching,Yes,Medium,High,Medium,Low,57,Pass
+566,19,Male,2,71,35,67,45,8.0,Yes,Graduate,Group Study,No,High,Low,High,Low,59,Pass
+567,21,Male,7,95,39,88,74,7.3,No,Postgraduate,Self Study,Yes,Medium,Medium,Medium,Medium,70,Average
+568,20,Male,4,66,61,75,84,7.3,Yes,Intermediate,Online,Yes,Medium,Medium,Low,Medium,73,Average
+569,17,Female,8,89,50,100,77,6.5,Yes,School,Group Study,Yes,High,High,Low,Low,79,Good
+570,21,Male,6,97,40,52,45,6.9,No,School,Group Study,Yes,High,High,Medium,Low,67,Average
+571,21,Female,10,55,74,71,79,7.9,Yes,Intermediate,Self Study,Yes,Medium,Medium,Low,High,87,Good
+572,17,Female,4,99,47,75,37,8.2,Yes,Graduate,Self Study,Yes,High,High,Medium,High,69,Average
+573,20,Female,5,69,82,76,46,7.6,Yes,School,Online,Yes,High,Low,Medium,Low,61,Average
+574,18,Male,9,80,69,65,37,8.7,Yes,Postgraduate,Group Study,Yes,High,Medium,Medium,Medium,84,Good
+575,21,Male,7,91,53,61,76,8.2,Yes,Graduate,Online,Yes,High,Low,Low,Low,79,Good
+576,17,Male,10,75,46,43,61,7.0,Yes,Postgraduate,Group Study,Yes,Medium,Medium,High,Medium,59,Pass
+577,19,Male,9,85,50,70,83,7.5,No,Graduate,Group Study,Yes,High,Low,Medium,Medium,89,Good
+578,17,Female,7,79,77,57,88,8.7,Yes,Intermediate,Group Study,Yes,Low,Medium,High,High,87,Good
+579,19,Male,1,77,44,77,36,7.3,Yes,Postgraduate,Self Study,No,High,High,Low,Low,47,Pass
+580,20,Male,8,78,59,63,83,8.2,Yes,Postgraduate,Group Study,Yes,Low,Medium,Low,Low,72,Average
+581,18,Female,4,92,54,95,50,7.6,Yes,Intermediate,Group Study,Yes,High,Low,High,Medium,75,Good
+582,17,Male,3,82,65,62,36,7.0,No,Postgraduate,Group Study,Yes,Low,Medium,Medium,Low,60,Average
+583,22,Female,7,75,38,61,94,5.6,No,Graduate,Coaching,Yes,Low,Low,Low,High,73,Average
+584,21,Female,3,97,78,41,88,6.4,Yes,School,Self Study,Yes,High,Low,Medium,High,74,Average
+585,20,Female,8,72,57,70,64,8.9,Yes,School,Coaching,Yes,High,Low,Medium,Low,92,Excellent
+586,17,Female,6,90,36,94,54,7.5,Yes,Intermediate,Self Study,Yes,High,High,High,Low,68,Average
+587,21,Female,5,89,90,50,72,7.0,No,Graduate,Online,Yes,Low,Medium,Low,High,50,Pass
+588,17,Female,4,99,56,67,62,8.7,No,Postgraduate,Coaching,Yes,Medium,Low,High,Low,72,Average
+589,19,Female,8,63,85,85,59,7.1,No,Postgraduate,Online,Yes,Medium,High,Low,Medium,80,Good
+590,17,Female,8,92,71,71,66,6.9,No,School,Group Study,Yes,High,Low,High,Low,83,Good
+591,22,Male,1,84,42,44,95,7.9,Yes,Postgraduate,Online,Yes,Medium,Medium,Low,Medium,53,Pass
+592,17,Male,9,98,41,77,44,7.7,No,School,Online,Yes,Medium,High,Low,Low,59,Pass
+593,17,Male,5,88,48,49,94,5.4,No,Intermediate,Online,Yes,High,Low,Low,Low,64,Average
+594,22,Male,4,86,90,79,76,6.6,Yes,Postgraduate,Online,Yes,Low,Low,Medium,High,76,Good
+595,20,Female,6,57,89,85,74,6.6,Yes,Graduate,Self Study,Yes,High,Low,Medium,Medium,80,Good
+596,17,Male,6,57,37,63,67,6.2,No,Postgraduate,Coaching,Yes,Medium,Medium,High,High,71,Average
+597,22,Female,2,82,84,74,47,6.8,No,School,Self Study,Yes,Low,High,High,Low,62,Average
+598,21,Male,8,98,50,83,90,6.4,No,Intermediate,Self Study,Yes,Medium,High,Low,High,82,Good
+599,19,Male,7,69,89,87,75,5.4,No,School,Self Study,No,Low,High,Low,Low,81,Good
+600,19,Male,1,95,53,99,88,6.4,Yes,Postgraduate,Online,Yes,Medium,Low,Medium,Low,85,Good
+601,17,Female,5,77,85,62,76,4.8,Yes,School,Self Study,Yes,High,High,Medium,Low,78,Good
+602,20,Male,6,94,52,56,81,7.1,No,School,Coaching,Yes,Medium,Low,Medium,Medium,64,Average
+603,20,Female,4,65,86,40,71,8.3,No,Intermediate,Self Study,Yes,Medium,Medium,High,Medium,66,Average
+604,21,Female,2,86,50,94,88,7.8,No,Graduate,Group Study,Yes,Low,High,Medium,Medium,58,Pass
+605,17,Male,4,90,42,70,50,6.1,No,Postgraduate,Online,Yes,Medium,Low,High,High,63,Average
+606,19,Male,1,87,67,70,79,4.9,No,Intermediate,Group Study,Yes,High,High,Medium,Low,72,Average
+607,20,Male,7,78,83,81,56,5.4,Yes,Graduate,Coaching,Yes,High,High,Medium,High,73,Average
+608,17,Female,2,93,46,96,91,7.0,Yes,School,Coaching,Yes,High,Medium,Low,High,88,Good
+609,20,Male,2,88,87,94,54,5.4,Yes,Graduate,Coaching,Yes,Low,High,High,Low,72,Average
+610,22,Female,9,82,45,81,84,6.9,No,School,Coaching,Yes,Low,Medium,Medium,High,80,Good
+611,20,Female,5,91,39,92,77,5.5,No,School,Self Study,Yes,Medium,High,Low,Low,76,Good
+612,19,Male,2,61,61,95,61,8.3,Yes,Intermediate,Online,Yes,Medium,High,High,Low,77,Good
+613,18,Male,9,58,46,73,75,6.3,Yes,School,Coaching,Yes,Medium,High,High,Low,75,Good
+614,21,Female,9,91,51,48,50,5.6,No,Intermediate,Group Study,Yes,Low,High,Medium,Low,64,Average
+615,21,Female,1,55,40,61,68,8.2,Yes,Graduate,Coaching,Yes,Low,High,High,High,62,Average
+616,19,Female,3,55,67,52,66,6.0,No,Graduate,Online,Yes,Medium,High,Low,High,45,Pass
+617,20,Male,4,74,39,64,60,5.0,No,School,Group Study,Yes,Low,Medium,Low,High,55,Pass
+618,17,Female,7,73,62,87,59,7.1,Yes,Intermediate,Group Study,Yes,Low,Medium,High,Medium,75,Good
+619,20,Male,10,83,48,57,36,7.1,Yes,School,Group Study,Yes,High,Low,Low,High,69,Average
+620,19,Female,4,64,39,90,46,7.7,Yes,Intermediate,Self Study,Yes,High,High,High,High,60,Average
+621,21,Female,2,72,88,51,74,5.6,No,Intermediate,Coaching,Yes,Medium,Medium,Low,Medium,72,Average
+622,20,Male,7,82,90,79,43,6.5,No,Intermediate,Self Study,Yes,Medium,High,High,Low,73,Average
+623,21,Female,6,89,67,56,46,5.8,Yes,Graduate,Group Study,Yes,High,High,High,Low,70,Average
+624,17,Male,3,97,84,54,60,4.9,No,Intermediate,Self Study,Yes,Low,Medium,High,Low,78,Good
+625,21,Male,6,85,82,81,43,8.4,No,Graduate,Self Study,Yes,Medium,High,Low,Medium,68,Average
+626,21,Female,6,81,75,54,44,7.8,No,Intermediate,Self Study,Yes,Medium,Medium,High,High,69,Average
+627,18,Male,5,65,53,54,66,5.9,Yes,Graduate,Coaching,Yes,Medium,Medium,High,High,79,Good
+628,18,Male,4,92,56,94,91,7.2,No,Postgraduate,Group Study,No,Low,Low,Medium,High,68,Average
+629,22,Female,10,59,39,78,68,5.4,Yes,Graduate,Group Study,Yes,High,Low,Medium,High,78,Good
+630,18,Male,1,62,36,52,82,8.5,Yes,Graduate,Coaching,Yes,Medium,Low,High,Medium,61,Average
+631,21,Male,10,88,64,56,54,5.0,No,School,Self Study,Yes,High,Low,Medium,High,81,Good
+632,19,Male,6,66,81,71,73,4.5,Yes,Intermediate,Self Study,Yes,High,High,High,Low,77,Good
+633,21,Female,2,92,73,48,94,6.8,No,Postgraduate,Online,Yes,Low,High,Medium,Medium,74,Average
+634,19,Male,3,55,38,79,36,7.1,Yes,School,Online,Yes,Low,Low,Low,Medium,60,Average
+635,19,Female,8,85,67,59,35,7.1,Yes,Intermediate,Online,Yes,Low,Medium,Low,Low,60,Average
+636,18,Female,10,58,47,65,85,4.7,No,Postgraduate,Coaching,Yes,Low,Medium,High,Low,70,Average
+637,20,Male,6,99,54,66,94,5.9,Yes,Postgraduate,Group Study,Yes,Low,Medium,High,High,87,Good
+638,17,Male,3,59,88,60,70,6.7,Yes,Postgraduate,Online,Yes,Low,Medium,Low,Low,68,Average
+639,18,Male,7,84,41,57,58,5.5,Yes,Intermediate,Group Study,Yes,Medium,High,Low,Medium,52,Pass
+640,18,Female,4,78,49,52,88,8.4,No,Postgraduate,Group Study,Yes,High,Medium,Medium,Medium,77,Good
+641,20,Male,9,57,57,55,61,4.9,No,Postgraduate,Group Study,No,Low,Medium,High,Medium,61,Average
+642,17,Male,5,65,48,48,36,6.7,Yes,School,Coaching,Yes,Medium,Low,Low,High,58,Pass
+643,21,Male,3,99,57,51,65,7.6,Yes,Graduate,Coaching,Yes,High,Medium,Low,High,68,Average
+644,22,Male,2,58,53,83,91,5.7,Yes,Intermediate,Coaching,Yes,Low,High,High,Low,58,Pass
+645,22,Male,2,80,88,77,48,7.3,No,Graduate,Coaching,Yes,Low,Medium,Medium,High,58,Pass
+646,21,Female,3,81,63,58,36,8.2,No,School,Online,Yes,Medium,Medium,Medium,High,61,Average
+647,18,Female,2,100,90,99,63,5.4,Yes,Graduate,Self Study,Yes,High,High,Medium,Medium,80,Good
+648,17,Male,4,97,54,46,49,8.6,No,Postgraduate,Self Study,Yes,Low,Low,Medium,Medium,61,Average
+649,18,Male,2,81,63,96,46,7.0,No,Postgraduate,Self Study,No,High,High,Low,Low,68,Average
+650,19,Male,10,96,58,74,71,5.8,No,Intermediate,Online,Yes,Medium,Low,High,Medium,100,Excellent
+651,18,Male,9,60,52,87,62,6.4,No,Intermediate,Self Study,Yes,Low,Medium,High,High,77,Good
+652,18,Female,2,69,44,57,54,5.9,Yes,Intermediate,Online,No,High,Low,Low,Low,54,Pass
+653,21,Male,9,84,75,55,95,7.8,No,School,Online,Yes,Medium,Low,Low,Low,77,Good
+654,21,Female,6,96,42,94,73,8.1,No,Intermediate,Online,Yes,Medium,Low,Low,Medium,83,Good
+655,21,Female,1,91,60,78,58,8.2,Yes,School,Self Study,Yes,Low,Medium,High,Medium,81,Good
+656,22,Male,4,91,63,43,55,8.9,Yes,Postgraduate,Group Study,No,High,Low,High,Medium,89,Good
+657,19,Female,1,96,44,98,44,8.1,No,Graduate,Self Study,Yes,Low,Low,High,Low,77,Good
+658,21,Female,6,91,51,64,80,7.2,No,Postgraduate,Self Study,Yes,Low,Medium,Medium,Medium,81,Good
+659,17,Female,4,89,36,71,48,6.0,Yes,Postgraduate,Coaching,Yes,High,High,Low,High,64,Average
+660,22,Female,3,77,40,79,71,7.0,Yes,Postgraduate,Online,Yes,High,High,Low,Low,55,Pass
+661,20,Male,3,60,39,52,52,4.7,Yes,Intermediate,Group Study,Yes,High,High,Low,Medium,49,Pass
+662,17,Male,9,58,62,84,58,7.9,No,Intermediate,Coaching,Yes,Medium,Medium,High,High,76,Good
+663,17,Female,6,72,75,56,48,6.5,No,Intermediate,Group Study,No,Medium,Medium,Low,High,62,Average
+664,21,Male,9,63,39,88,68,4.6,Yes,Graduate,Group Study,Yes,High,High,Low,Medium,63,Average
+665,20,Male,5,83,52,76,92,4.8,No,Intermediate,Online,Yes,Medium,Low,Medium,High,85,Good
+666,20,Male,2,67,60,45,46,6.2,Yes,School,Self Study,Yes,Low,High,High,Low,48,Pass
+667,22,Male,8,71,54,58,56,7.1,No,Postgraduate,Online,Yes,High,Medium,Low,Low,64,Average
+668,20,Male,5,99,75,52,90,6.6,Yes,Graduate,Online,Yes,Low,Low,High,High,78,Good
+669,19,Female,2,86,83,96,40,7.3,Yes,Graduate,Coaching,No,High,Low,High,Low,75,Good
+670,21,Male,4,76,61,99,70,6.7,No,Graduate,Online,No,Low,Medium,High,Medium,84,Good
+671,20,Male,9,58,83,65,79,7.5,No,Graduate,Self Study,Yes,High,Low,Medium,High,85,Good
+672,22,Male,4,59,46,53,70,5.5,No,Graduate,Group Study,No,Low,High,High,Low,55,Pass
+673,19,Male,4,91,41,70,56,5.0,No,School,Online,Yes,High,Medium,High,Medium,84,Good
+674,18,Female,2,95,37,93,48,7.2,No,Postgraduate,Group Study,Yes,High,Medium,High,Medium,80,Good
+675,18,Female,6,67,44,43,50,6.7,No,Graduate,Online,Yes,Medium,Medium,Low,Low,60,Average
+676,19,Female,2,88,68,99,95,4.6,Yes,Postgraduate,Group Study,No,Low,Medium,Medium,High,80,Good
+677,22,Female,7,99,59,78,70,6.2,No,Intermediate,Online,Yes,Medium,Low,Low,Medium,74,Average
+678,19,Male,3,76,69,47,90,5.0,Yes,Graduate,Coaching,No,Low,Medium,Medium,Medium,60,Average
+679,21,Female,3,77,50,64,59,6.9,Yes,Graduate,Group Study,Yes,Medium,Medium,Medium,Medium,66,Average
+680,21,Male,5,57,36,52,66,6.3,No,Postgraduate,Online,Yes,High,Low,High,Medium,67,Average
+681,18,Male,3,96,58,71,67,7.3,Yes,Graduate,Online,Yes,Medium,Medium,High,High,70,Average
+682,20,Male,2,88,44,98,79,8.1,Yes,Graduate,Coaching,Yes,Medium,Low,Low,Low,79,Good
+683,22,Male,10,86,72,77,70,5.8,No,Graduate,Coaching,Yes,High,Low,Medium,Low,83,Good
+684,18,Male,9,99,56,77,54,8.8,No,School,Coaching,Yes,Medium,Medium,High,Low,90,Excellent
+685,20,Female,2,75,60,95,52,6.9,No,School,Group Study,Yes,High,High,High,Medium,67,Average
+686,20,Female,2,100,77,67,72,7.3,Yes,Graduate,Group Study,Yes,Low,Medium,High,High,75,Good
+687,21,Female,8,98,89,92,37,7.6,No,School,Coaching,Yes,Medium,High,High,Low,71,Average
+688,17,Female,9,75,73,69,57,7.5,No,Intermediate,Self Study,No,High,Low,Low,High,70,Average
+689,17,Male,7,98,61,42,66,6.8,No,Graduate,Self Study,Yes,High,High,Low,Low,79,Good
+690,19,Female,3,65,63,67,79,6.4,No,Intermediate,Online,Yes,Medium,Medium,High,Medium,73,Average
+691,21,Male,9,93,81,42,93,4.7,Yes,Postgraduate,Self Study,Yes,Low,Medium,High,Low,85,Good
+692,20,Female,3,58,72,84,50,4.6,No,Intermediate,Online,Yes,Medium,High,High,Medium,73,Average
+693,22,Male,5,55,54,93,93,6.1,Yes,Postgraduate,Group Study,Yes,High,Medium,High,Medium,70,Average
+694,17,Male,9,82,61,73,39,6.0,No,Graduate,Group Study,Yes,Low,High,High,Low,70,Average
+695,20,Female,3,78,75,55,38,6.2,Yes,Postgraduate,Self Study,Yes,Medium,Low,Medium,High,52,Pass
+696,17,Male,7,89,88,61,55,5.1,Yes,Postgraduate,Group Study,Yes,High,High,Medium,Medium,71,Average
+697,17,Male,1,67,54,71,74,7.8,Yes,Intermediate,Coaching,Yes,Medium,High,Medium,High,55,Pass
+698,17,Female,4,88,78,100,85,8.4,No,Intermediate,Coaching,No,Low,High,Medium,Low,82,Good
+699,22,Male,4,65,53,77,48,8.7,Yes,Intermediate,Self Study,Yes,Low,High,High,Medium,47,Pass
+700,21,Female,7,90,54,47,73,6.7,No,Graduate,Self Study,No,Low,Low,Medium,High,70,Average
+701,22,Female,8,71,69,94,65,7.7,No,Graduate,Online,No,Low,Low,Medium,Medium,68,Average
+702,18,Female,1,89,81,47,48,8.3,No,Intermediate,Group Study,No,Low,Low,Low,Low,50,Pass
+703,20,Male,5,72,36,96,40,6.4,No,Graduate,Online,No,Medium,High,Medium,Medium,53,Pass
+704,21,Male,7,94,64,45,46,5.9,No,Graduate,Online,Yes,Low,Low,Medium,Low,76,Good
+705,21,Male,4,76,87,53,50,8.7,Yes,Postgraduate,Coaching,Yes,Low,Medium,High,High,67,Average
+706,21,Female,4,78,68,71,51,6.8,No,Postgraduate,Coaching,Yes,High,Low,Medium,Medium,85,Good
+707,21,Male,4,73,56,74,79,6.7,Yes,Intermediate,Coaching,Yes,Low,High,Medium,High,83,Good
+708,22,Female,6,91,37,49,57,5.3,Yes,Graduate,Coaching,Yes,High,Medium,High,Low,85,Good
+709,21,Female,7,93,40,42,48,5.0,Yes,Postgraduate,Online,Yes,High,High,Medium,Low,61,Average
+710,19,Male,2,75,49,98,95,8.3,Yes,School,Coaching,No,High,Medium,High,High,83,Good
+711,20,Female,5,62,61,51,41,7.3,Yes,Graduate,Group Study,No,Medium,High,Medium,High,60,Average
+712,21,Male,4,82,44,88,80,6.0,Yes,School,Coaching,Yes,Medium,High,Low,Low,63,Average
+713,20,Male,3,59,43,98,66,5.4,Yes,Intermediate,Coaching,Yes,High,Medium,Low,High,69,Average
+714,19,Male,7,71,67,70,49,7.0,No,Graduate,Coaching,No,Medium,Low,Medium,Low,60,Average
+715,19,Male,6,91,66,68,78,7.1,Yes,Intermediate,Self Study,Yes,Low,Medium,Low,High,60,Average
+716,20,Male,7,90,82,44,51,5.4,No,Intermediate,Group Study,Yes,Medium,Medium,High,Low,76,Good
+717,17,Female,5,73,40,91,75,8.3,Yes,Intermediate,Group Study,Yes,Low,Medium,Medium,Low,68,Average
+718,18,Female,6,81,75,64,88,4.9,Yes,Intermediate,Online,Yes,Low,Medium,High,Medium,70,Average
+719,17,Female,5,88,70,80,81,6.1,Yes,Intermediate,Online,Yes,Medium,Medium,Low,Low,68,Average
+720,17,Male,7,65,36,70,78,7.6,Yes,Graduate,Coaching,No,Medium,High,High,Low,80,Good
+721,22,Male,2,99,63,60,68,5.7,No,School,Self Study,Yes,High,High,Low,Medium,69,Average
+722,17,Male,5,66,38,97,39,8.2,No,Graduate,Online,Yes,Medium,Low,Low,Medium,51,Pass
+723,21,Female,6,75,35,59,79,7.8,No,Graduate,Online,Yes,Medium,Low,Low,High,62,Average
+724,22,Male,6,65,53,78,61,8.1,Yes,Graduate,Coaching,Yes,Medium,Medium,High,High,72,Average
+725,22,Female,5,93,60,61,86,5.0,Yes,Postgraduate,Coaching,No,Low,Low,Low,Low,73,Average
+726,19,Female,10,82,59,43,57,5.1,Yes,Postgraduate,Online,Yes,Low,Low,Medium,High,66,Average
+727,17,Male,7,59,44,52,74,5.8,No,Graduate,Online,Yes,Low,Medium,Low,High,60,Average
+728,19,Male,10,71,87,84,93,6.8,Yes,School,Group Study,Yes,High,High,Medium,Low,89,Good
+729,20,Female,8,74,49,81,48,7.9,No,Graduate,Self Study,Yes,High,High,Medium,Medium,72,Average
+730,18,Male,7,95,56,89,49,8.3,No,Intermediate,Group Study,Yes,High,Low,Medium,Medium,62,Average
+731,22,Female,5,100,85,88,77,7.7,Yes,Postgraduate,Online,Yes,Low,High,Medium,Low,81,Good
+732,20,Male,1,66,82,59,67,8.7,Yes,Postgraduate,Group Study,Yes,Medium,High,High,Low,51,Pass
+733,20,Male,5,60,55,91,87,7.8,No,Graduate,Group Study,Yes,High,Low,Medium,Low,76,Good
+734,21,Female,10,71,90,52,65,5.9,No,Graduate,Online,Yes,High,Medium,Low,Low,71,Average
+735,18,Male,2,73,56,56,69,5.7,No,School,Coaching,No,Low,Low,Medium,Low,49,Pass
+736,20,Female,5,80,70,93,51,7.6,Yes,School,Online,No,High,Low,Low,Low,79,Good
+737,20,Male,5,98,68,75,62,5.4,Yes,Intermediate,Coaching,Yes,Medium,Low,High,High,72,Average
+738,18,Female,2,98,64,72,53,4.9,Yes,Graduate,Online,Yes,Low,Medium,Medium,High,61,Average
+739,18,Female,5,86,59,40,80,6.9,Yes,Graduate,Online,Yes,Low,Medium,Low,High,75,Good
+740,20,Male,4,60,79,54,88,8.2,Yes,Graduate,Online,Yes,Medium,Medium,High,Medium,72,Average
+741,18,Female,1,90,62,52,57,5.0,Yes,Postgraduate,Self Study,Yes,Medium,Medium,High,Low,56,Pass
+742,20,Male,3,92,35,56,66,8.1,No,Intermediate,Coaching,Yes,Medium,Low,Low,Low,62,Average
+743,20,Male,1,65,83,63,74,8.2,No,School,Self Study,Yes,High,High,Medium,High,73,Average
+744,21,Male,5,87,79,97,47,6.7,No,Postgraduate,Online,Yes,Medium,Low,High,Medium,91,Excellent
+745,17,Female,4,78,38,47,93,4.8,Yes,Postgraduate,Group Study,Yes,Low,Medium,Low,High,56,Pass
+746,20,Female,7,77,41,89,54,5.3,No,Postgraduate,Self Study,Yes,Medium,High,Medium,Low,57,Pass
+747,19,Male,5,69,83,66,69,7.7,Yes,Postgraduate,Coaching,Yes,Low,Low,High,Low,72,Average
+748,22,Male,10,81,43,84,39,7.7,Yes,Intermediate,Online,Yes,Low,High,Low,High,68,Average
+749,17,Female,4,65,70,62,43,8.5,No,Graduate,Self Study,Yes,High,Medium,High,High,63,Average
+750,17,Male,2,71,53,85,63,7.1,Yes,School,Group Study,Yes,Medium,High,High,Low,70,Average
+751,17,Male,4,68,35,47,40,5.1,No,School,Self Study,Yes,High,High,Low,High,42,Pass
+752,21,Female,2,81,44,47,59,5.0,No,Postgraduate,Coaching,Yes,Medium,Medium,High,Low,42,Pass
+753,20,Male,8,72,70,98,65,7.7,Yes,Postgraduate,Self Study,No,Medium,High,Low,High,79,Good
+754,21,Female,3,82,43,65,56,5.3,No,Intermediate,Group Study,Yes,Medium,Low,Medium,Medium,69,Average
+755,20,Male,9,58,79,86,36,6.0,No,Postgraduate,Group Study,Yes,Medium,High,Low,Low,70,Average
+756,21,Female,4,61,80,98,79,6.7,No,School,Coaching,Yes,Medium,Low,Medium,Medium,63,Average
+757,21,Male,6,99,76,52,39,4.6,No,School,Group Study,No,Low,High,High,High,57,Pass
+758,22,Male,10,89,66,78,94,5.6,Yes,Graduate,Online,Yes,Low,High,Low,Medium,79,Good
+759,19,Female,5,63,66,76,61,6.3,No,Graduate,Group Study,Yes,Medium,Medium,Low,High,80,Good
+760,21,Male,10,62,40,88,59,5.8,No,School,Online,No,Low,Medium,Low,Medium,63,Average
+761,22,Female,1,99,82,67,42,5.1,No,School,Self Study,Yes,High,Low,Low,Medium,54,Pass
+762,18,Male,9,71,72,64,89,7.8,Yes,Intermediate,Online,Yes,High,Medium,Medium,Medium,89,Good
+763,19,Female,1,71,51,100,35,8.2,No,Intermediate,Online,Yes,High,Medium,Medium,Low,71,Average
+764,21,Female,8,87,44,55,54,5.7,Yes,School,Self Study,Yes,Medium,Medium,High,Medium,80,Good
+765,17,Female,9,86,84,94,78,8.0,No,Postgraduate,Group Study,No,Medium,Medium,High,High,96,Excellent
+766,18,Female,9,62,61,41,57,6.2,No,Graduate,Online,Yes,Low,Medium,High,High,69,Average
+767,18,Male,1,73,88,93,66,6.8,No,School,Group Study,Yes,Low,Low,High,Low,53,Pass
+768,22,Male,2,92,84,57,45,8.4,Yes,Postgraduate,Self Study,Yes,Low,Low,Low,Low,63,Average
+769,18,Female,1,57,69,56,73,7.9,Yes,School,Coaching,Yes,High,Medium,Medium,High,69,Average
+770,19,Female,10,59,86,69,81,8.1,Yes,Graduate,Group Study,Yes,High,Medium,Medium,Medium,86,Good
+771,21,Female,2,67,55,78,88,5.1,Yes,Graduate,Group Study,Yes,High,Low,Medium,High,80,Good
+772,21,Male,10,100,59,52,58,4.8,Yes,Intermediate,Coaching,Yes,High,High,Medium,Low,73,Average
+773,17,Male,8,85,62,71,45,8.5,Yes,Intermediate,Coaching,Yes,Low,Low,High,Low,71,Average
+774,22,Male,5,70,81,89,63,6.2,No,Intermediate,Self Study,Yes,Medium,High,Low,High,78,Good
+775,17,Male,7,86,49,68,88,5.8,Yes,Intermediate,Group Study,Yes,Medium,Medium,Medium,Medium,76,Good
+776,18,Female,2,76,38,85,60,7.8,No,Graduate,Group Study,Yes,High,Medium,Low,Medium,65,Average
+777,17,Female,8,83,63,69,50,8.3,Yes,Postgraduate,Self Study,Yes,Medium,Low,Low,Low,80,Good
+778,19,Female,6,76,43,57,69,8.4,Yes,Postgraduate,Group Study,Yes,Medium,Medium,Low,High,61,Average
+779,21,Male,8,97,61,52,54,5.9,Yes,Postgraduate,Online,Yes,Medium,High,Low,High,60,Average
+780,18,Male,1,57,60,82,80,8.3,No,School,Online,Yes,High,High,Medium,Low,76,Good
+781,17,Male,1,64,53,60,37,4.7,Yes,Intermediate,Online,Yes,Low,Low,Medium,High,46,Pass
+782,22,Female,7,96,90,69,35,4.7,Yes,Intermediate,Group Study,Yes,Low,High,Medium,Low,70,Average
+783,19,Female,8,75,62,60,92,7.3,No,Graduate,Online,No,Medium,Low,High,Medium,69,Average
+784,19,Male,3,70,51,87,87,4.8,No,Graduate,Online,Yes,Low,Low,Medium,Medium,50,Pass
+785,17,Female,5,66,77,94,81,6.0,No,School,Self Study,Yes,Low,High,High,High,78,Good
+786,21,Male,1,56,75,56,35,7.5,No,School,Self Study,Yes,High,High,High,Medium,54,Pass
+787,17,Male,7,95,76,79,51,6.0,Yes,Postgraduate,Coaching,Yes,High,High,High,Medium,82,Good
+788,18,Female,5,78,84,58,36,5.3,No,Graduate,Coaching,Yes,Medium,High,Medium,Low,74,Average
+789,17,Male,8,89,54,91,63,5.8,Yes,Intermediate,Coaching,No,Medium,High,Medium,Low,62,Average
+790,19,Female,8,84,79,54,54,6.6,Yes,Postgraduate,Coaching,Yes,Medium,High,Medium,High,73,Average
+791,17,Male,9,84,74,48,40,6.6,No,Intermediate,Self Study,Yes,High,High,High,Low,81,Good
+792,21,Female,7,89,73,91,42,8.0,Yes,Postgraduate,Self Study,Yes,Low,Medium,High,High,69,Average
+793,22,Female,1,73,83,49,63,7.9,No,Intermediate,Self Study,Yes,High,Low,Low,High,62,Average
+794,20,Female,3,62,87,83,82,6.6,Yes,School,Online,Yes,High,Low,High,Low,66,Average
+795,17,Male,8,80,57,70,85,8.3,No,Postgraduate,Online,Yes,Low,High,High,Medium,96,Excellent
+796,21,Male,3,94,81,92,67,5.0,No,Intermediate,Coaching,Yes,Low,Low,Medium,Medium,57,Pass
+797,21,Female,8,61,66,62,37,5.6,No,Intermediate,Online,Yes,Medium,High,Low,Medium,64,Average
+798,22,Female,1,84,86,91,94,8.2,No,Graduate,Group Study,Yes,Low,Medium,Low,Medium,66,Average
+799,19,Male,5,61,81,69,69,6.2,No,Postgraduate,Self Study,Yes,Low,Low,Low,High,59,Pass
+800,21,Male,4,57,67,72,39,8.9,No,Intermediate,Coaching,Yes,Low,Low,Medium,Medium,70,Average
+801,21,Male,5,55,80,96,61,6.6,Yes,Graduate,Coaching,Yes,Low,Medium,Low,High,62,Average
+802,21,Female,8,90,39,91,78,8.1,Yes,Intermediate,Group Study,Yes,Medium,Medium,Low,Low,84,Good
+803,21,Male,10,79,77,48,46,6.3,Yes,Postgraduate,Online,No,Medium,Medium,Medium,Low,81,Good
+804,18,Male,4,91,82,93,54,6.4,No,School,Coaching,Yes,Low,Low,Low,High,74,Average
+805,18,Female,4,55,68,86,79,6.2,Yes,Postgraduate,Online,No,Low,Low,High,Medium,78,Good
+806,19,Male,3,69,74,40,54,7.7,No,Postgraduate,Online,No,Medium,Medium,High,High,64,Average
+807,17,Male,7,91,45,83,43,7.0,Yes,Intermediate,Group Study,No,Medium,Medium,High,Medium,73,Average
+808,21,Male,3,67,84,74,73,8.7,Yes,Intermediate,Coaching,Yes,Low,Medium,High,Medium,69,Average
+809,22,Female,3,94,37,50,38,5.6,No,Postgraduate,Online,Yes,High,Medium,High,High,77,Good
+810,17,Female,10,62,67,73,85,5.0,Yes,Graduate,Online,Yes,Medium,Medium,High,High,90,Excellent
+811,22,Female,5,59,45,55,88,6.3,Yes,Graduate,Group Study,Yes,Medium,High,High,Medium,72,Average
+812,17,Female,5,63,50,48,53,7.3,Yes,Graduate,Group Study,Yes,Medium,Medium,High,High,71,Average
+813,19,Female,6,55,52,71,72,8.4,No,Intermediate,Online,Yes,Low,High,High,Medium,61,Average
+814,21,Female,8,90,64,54,61,6.1,Yes,Intermediate,Group Study,Yes,Low,Low,Medium,High,83,Good
+815,21,Female,10,89,82,51,79,7.4,No,Postgraduate,Online,Yes,Medium,Low,Medium,Low,98,Excellent
+816,20,Male,6,56,89,72,77,6.1,Yes,School,Coaching,No,Low,High,High,Medium,59,Pass
+817,22,Male,1,94,44,84,47,7.3,Yes,Intermediate,Self Study,Yes,Low,Medium,Medium,Low,64,Average
+818,17,Female,8,77,52,53,47,8.5,Yes,Postgraduate,Group Study,Yes,Medium,Low,Medium,High,74,Average
+819,17,Male,8,63,72,96,94,5.5,Yes,Postgraduate,Self Study,Yes,Low,Medium,High,Low,78,Good
+820,18,Male,9,88,53,96,91,6.3,No,School,Online,No,High,Medium,High,High,82,Good
+821,20,Female,9,100,70,47,56,9.0,Yes,Graduate,Online,Yes,Low,High,Medium,Medium,83,Good
+822,18,Male,2,68,47,47,62,8.4,No,Postgraduate,Online,Yes,Low,Low,High,High,64,Average
+823,18,Male,2,58,90,66,86,7.0,No,Postgraduate,Self Study,Yes,Medium,Low,High,High,75,Good
+824,18,Male,3,84,80,51,81,6.8,Yes,Postgraduate,Online,No,Medium,High,High,Medium,76,Good
+825,22,Male,1,85,37,40,87,5.8,Yes,Graduate,Group Study,Yes,High,Medium,High,High,68,Average
+826,22,Male,4,92,44,82,79,6.8,No,Graduate,Coaching,Yes,Low,Medium,Medium,Medium,67,Average
+827,19,Female,4,65,72,79,56,8.3,No,School,Coaching,Yes,High,Low,Low,High,73,Average
+828,19,Female,9,89,35,81,77,7.6,Yes,Intermediate,Group Study,Yes,High,High,Medium,Medium,81,Good
+829,18,Female,9,62,89,90,53,5.8,Yes,Graduate,Coaching,Yes,Medium,High,Low,Low,56,Pass
+830,20,Male,9,57,90,50,42,5.4,Yes,Intermediate,Self Study,No,Low,Medium,Low,High,56,Pass
+831,17,Female,10,68,61,78,86,5.7,Yes,Intermediate,Online,No,Medium,Medium,Low,High,69,Average
+832,22,Male,7,67,80,82,42,5.3,Yes,Graduate,Online,Yes,High,High,Medium,High,57,Pass
+833,20,Male,2,99,42,70,76,4.9,No,Postgraduate,Online,Yes,High,Low,Medium,Medium,76,Good
+834,21,Male,10,86,85,56,60,6.4,Yes,School,Self Study,Yes,Medium,Medium,Medium,High,77,Good
+835,22,Male,5,88,80,72,82,5.0,Yes,Intermediate,Self Study,Yes,Medium,High,Medium,Medium,85,Good
+836,22,Female,4,99,76,71,85,5.3,No,Postgraduate,Self Study,Yes,Medium,High,Medium,High,63,Average
+837,19,Female,8,73,51,97,60,7.0,Yes,Graduate,Group Study,Yes,Medium,High,Low,Low,67,Average
+838,17,Male,2,92,43,68,57,5.2,Yes,Intermediate,Self Study,Yes,Medium,Low,Medium,High,62,Average
+839,17,Female,6,70,40,60,77,4.8,No,Intermediate,Coaching,Yes,High,Medium,Low,Low,51,Pass
+840,21,Male,5,56,77,60,47,5.9,Yes,Intermediate,Group Study,Yes,Medium,Medium,Medium,Medium,63,Average
+841,21,Female,2,94,59,79,62,5.5,No,Postgraduate,Group Study,Yes,Low,Medium,Medium,Low,52,Pass
+842,22,Female,10,71,73,62,43,6.8,Yes,Postgraduate,Group Study,Yes,High,Low,High,High,82,Good
+843,18,Male,1,88,83,95,54,5.0,Yes,Postgraduate,Self Study,Yes,High,Medium,Low,High,76,Good
+844,19,Female,8,96,62,45,90,7.9,Yes,Intermediate,Group Study,Yes,Low,Medium,Medium,Medium,83,Good
+845,19,Male,2,70,67,61,53,8.6,No,Intermediate,Self Study,No,Low,Medium,Medium,High,63,Average
+846,22,Female,7,92,88,89,82,7.8,No,School,Self Study,Yes,High,Medium,Medium,High,100,Excellent
+847,20,Male,9,56,71,77,73,6.9,No,School,Group Study,No,Medium,Low,High,Medium,79,Good
+848,18,Male,9,56,43,76,85,8.4,No,Postgraduate,Online,No,High,High,Low,Medium,65,Average
+849,22,Female,8,80,52,84,46,7.6,Yes,Postgraduate,Online,Yes,High,High,Medium,Low,66,Average
+850,18,Female,10,67,90,90,49,4.5,No,Graduate,Group Study,Yes,Low,Medium,Medium,Medium,69,Average
+851,18,Male,9,85,55,93,65,6.3,No,Postgraduate,Online,Yes,High,Medium,Medium,High,75,Good
+852,18,Female,2,88,36,47,89,8.3,No,School,Coaching,No,Medium,Medium,High,Medium,76,Good
+853,22,Female,6,93,77,80,48,6.1,Yes,School,Coaching,No,Low,Low,Medium,High,78,Good
+854,19,Male,4,57,72,88,45,4.7,Yes,School,Self Study,Yes,High,Medium,Low,Low,47,Pass
+855,19,Male,4,62,74,74,60,7.9,No,Intermediate,Online,Yes,High,Low,Low,Medium,63,Average
+856,18,Female,5,77,70,90,76,8.1,No,Intermediate,Coaching,Yes,Medium,Medium,Low,High,69,Average
+857,20,Male,3,68,84,50,61,5.2,Yes,Postgraduate,Group Study,Yes,High,Medium,Low,Medium,66,Average
+858,17,Male,1,81,77,63,45,6.9,No,Graduate,Online,Yes,High,High,Medium,Medium,70,Average
+859,22,Male,8,83,71,88,72,5.4,No,Graduate,Coaching,Yes,High,Medium,High,Medium,89,Good
+860,17,Female,5,93,49,60,68,7.7,No,Graduate,Coaching,Yes,High,Low,High,Medium,73,Average
+861,20,Female,3,93,62,90,77,5.7,No,Intermediate,Group Study,Yes,Medium,High,High,Low,70,Average
+862,22,Male,10,55,52,41,53,5.9,Yes,School,Self Study,Yes,High,Low,Medium,High,59,Pass
+863,18,Female,7,71,68,79,40,8.3,Yes,School,Group Study,Yes,High,High,High,Medium,62,Average
+864,19,Male,7,95,56,58,80,6.6,Yes,Intermediate,Self Study,No,High,Low,Low,High,86,Good
+865,17,Female,1,84,45,78,86,7.5,No,Graduate,Coaching,Yes,Low,High,Medium,Low,75,Good
+866,21,Male,9,67,47,67,72,6.3,No,Graduate,Self Study,Yes,Medium,Low,High,High,73,Average
+867,21,Male,2,75,38,98,83,5.8,Yes,Postgraduate,Coaching,Yes,Low,Low,Low,High,68,Average
+868,20,Female,5,73,56,56,76,7.3,Yes,Postgraduate,Coaching,Yes,Low,Medium,Low,Low,69,Average
+869,18,Male,5,73,41,45,62,5.2,Yes,Graduate,Online,Yes,Medium,High,Medium,Medium,45,Pass
+870,17,Female,8,79,77,58,35,6.2,No,Intermediate,Self Study,Yes,Low,High,Medium,High,55,Pass
+871,18,Female,8,76,88,95,69,5.4,Yes,Graduate,Self Study,Yes,Low,Medium,High,High,99,Excellent
+872,17,Male,7,85,58,77,74,7.6,No,Postgraduate,Self Study,Yes,Low,Low,High,Medium,73,Average
+873,20,Male,7,71,38,67,42,8.7,No,Graduate,Group Study,Yes,Medium,Low,High,Medium,66,Average
+874,20,Female,6,77,62,41,93,9.0,Yes,Intermediate,Online,Yes,High,High,Medium,High,74,Average
+875,21,Male,6,86,49,77,86,6.5,Yes,School,Online,Yes,Medium,Low,High,Low,65,Average
+876,18,Male,9,64,35,94,88,5.6,No,Intermediate,Online,Yes,Medium,High,High,Medium,78,Good
+877,22,Male,6,64,89,76,81,6.5,Yes,Intermediate,Group Study,Yes,Medium,High,Low,Medium,73,Average
+878,21,Male,2,90,37,90,90,8.3,Yes,Postgraduate,Self Study,Yes,Low,Low,Low,Low,73,Average
+879,18,Male,2,62,48,91,41,5.4,No,Intermediate,Self Study,Yes,High,Low,Low,High,58,Pass
+880,21,Female,5,74,72,43,45,8.8,No,Intermediate,Self Study,Yes,Medium,Low,High,Medium,66,Average
+881,22,Female,4,86,84,61,73,6.0,No,Postgraduate,Online,Yes,Medium,Medium,Medium,High,71,Average
+882,19,Male,2,68,35,65,95,8.9,No,Postgraduate,Online,Yes,High,High,Low,High,63,Average
+883,19,Male,3,82,72,88,38,8.3,No,School,Coaching,Yes,High,Low,Medium,High,65,Average
+884,19,Male,7,100,72,82,59,8.1,Yes,Graduate,Group Study,Yes,High,Medium,High,Low,78,Good
+885,19,Female,8,78,55,75,46,5.9,No,Intermediate,Group Study,No,Low,Low,High,High,62,Average
+886,17,Male,6,69,82,97,60,4.5,No,Postgraduate,Online,No,High,High,Low,High,74,Average
+887,19,Female,5,76,63,52,72,6.2,No,School,Coaching,Yes,Low,Medium,Medium,Medium,69,Average
+888,22,Female,1,84,39,91,80,5.9,Yes,Graduate,Self Study,No,Medium,High,Low,Medium,62,Average
+889,20,Female,8,58,83,97,46,4.7,No,Postgraduate,Online,Yes,Low,Low,High,Low,86,Good
+890,20,Male,3,67,44,71,77,6.8,No,Graduate,Group Study,Yes,High,Low,Medium,Low,61,Average
+891,17,Female,6,77,62,56,85,6.3,No,Graduate,Group Study,Yes,Low,Low,Low,Medium,80,Good
+892,19,Male,3,62,55,80,87,7.4,Yes,Intermediate,Group Study,No,High,Medium,High,Medium,73,Average
+893,19,Female,7,72,84,75,71,7.3,No,Intermediate,Self Study,Yes,Low,Medium,Low,Low,73,Average
+894,19,Male,7,66,41,94,80,5.0,No,Postgraduate,Group Study,Yes,Medium,Medium,Medium,High,80,Good
+895,21,Female,9,85,37,99,87,8.9,No,Graduate,Self Study,Yes,Low,Medium,Medium,Low,79,Good
+896,18,Male,5,68,79,85,58,5.3,Yes,Postgraduate,Self Study,Yes,Medium,Low,Medium,High,66,Average
+897,21,Female,8,88,81,58,50,6.5,Yes,Postgraduate,Self Study,Yes,High,Low,Medium,Medium,73,Average
+898,18,Male,10,72,54,97,91,6.7,Yes,Graduate,Online,Yes,Medium,Low,Medium,Medium,73,Average
+899,19,Male,10,88,53,99,47,8.2,Yes,Postgraduate,Self Study,Yes,High,Medium,Low,Medium,86,Good
+900,19,Male,8,65,69,74,59,4.9,No,Graduate,Coaching,Yes,High,Medium,Low,High,76,Good
+901,21,Male,1,95,38,85,95,6.4,No,Graduate,Group Study,Yes,Medium,Low,Low,Low,84,Good
+902,21,Female,5,66,39,79,88,7.3,Yes,Graduate,Online,Yes,Medium,Low,Low,High,77,Good
+903,18,Female,3,69,35,95,88,5.5,Yes,Graduate,Group Study,Yes,Low,Medium,High,Low,74,Average
+904,20,Male,1,85,38,98,91,7.3,No,School,Self Study,Yes,Low,High,High,Low,68,Average
+905,18,Female,4,83,46,67,86,8.7,No,Graduate,Online,No,Medium,Low,Low,Low,74,Average
+906,21,Male,8,80,61,40,88,9.0,Yes,Intermediate,Coaching,Yes,Medium,Low,High,Medium,94,Excellent
+907,22,Male,3,72,90,81,38,4.6,Yes,Intermediate,Self Study,Yes,Medium,Low,High,Low,68,Average
+908,21,Female,10,86,76,57,45,5.6,Yes,Intermediate,Group Study,Yes,Medium,Medium,Medium,Medium,71,Average
+909,22,Male,2,76,57,87,66,5.9,Yes,Graduate,Coaching,Yes,High,Low,Low,Low,66,Average
+910,17,Male,9,92,59,79,83,6.3,No,Intermediate,Self Study,No,Medium,Low,High,Low,91,Excellent
+911,21,Female,10,71,55,72,41,5.6,Yes,School,Coaching,Yes,Medium,Low,High,Medium,70,Average
+912,17,Male,5,77,86,51,80,5.4,Yes,Postgraduate,Self Study,Yes,Medium,Low,Low,Medium,81,Good
+913,20,Male,7,78,58,47,92,8.8,No,Graduate,Online,Yes,Medium,Low,Medium,High,98,Excellent
+914,18,Male,2,62,59,63,45,8.6,No,Intermediate,Self Study,Yes,High,High,Low,Low,60,Average
+915,22,Male,9,95,79,55,62,4.7,No,School,Online,Yes,Low,High,Medium,Medium,78,Good
+916,18,Female,9,60,89,89,88,6.0,No,Postgraduate,Self Study,Yes,Low,Low,High,High,90,Excellent
+917,17,Female,4,59,80,43,75,6.3,No,School,Self Study,Yes,Low,Low,Medium,High,60,Average
+918,22,Female,4,98,66,77,57,5.6,Yes,Intermediate,Group Study,Yes,Low,Low,Medium,Medium,65,Average
+919,18,Male,6,83,89,83,79,7.3,Yes,School,Coaching,Yes,Low,Low,Low,Low,72,Average
+920,21,Male,10,82,66,66,57,7.4,Yes,Postgraduate,Coaching,Yes,High,Medium,High,High,89,Good
+921,19,Female,10,65,39,48,84,8.3,No,Intermediate,Coaching,Yes,Low,Medium,Low,Low,65,Average
+922,17,Male,10,55,70,86,62,7.8,Yes,Postgraduate,Self Study,Yes,High,Medium,Low,Low,76,Good
+923,18,Male,6,97,80,55,77,6.9,No,School,Self Study,Yes,High,High,High,High,86,Good
+924,17,Male,1,73,76,95,81,7.4,Yes,Graduate,Self Study,Yes,Low,Low,Low,Medium,65,Average
+925,17,Male,9,63,83,51,91,5.7,Yes,Graduate,Online,Yes,Low,Medium,Low,Low,69,Average
+926,22,Female,2,81,76,70,60,7.2,No,Graduate,Online,Yes,Low,Low,Medium,Medium,70,Average
+927,22,Female,5,88,73,63,59,6.7,No,Graduate,Group Study,Yes,Medium,Low,Low,High,70,Average
+928,19,Female,9,98,50,94,88,5.1,Yes,Postgraduate,Self Study,Yes,High,High,High,Low,85,Good
+929,21,Male,4,58,67,53,63,5.6,Yes,Graduate,Coaching,Yes,Low,High,Low,Medium,46,Pass
+930,17,Female,3,90,83,84,53,5.8,Yes,Postgraduate,Coaching,Yes,Medium,Medium,Medium,Medium,71,Average
+931,18,Female,7,72,55,64,67,8.7,Yes,Intermediate,Group Study,Yes,High,Medium,Low,Low,85,Good
+932,20,Male,6,69,43,73,70,5.5,Yes,Graduate,Coaching,Yes,Medium,High,Low,Medium,60,Average
+933,17,Male,8,67,40,42,48,5.8,No,Postgraduate,Group Study,Yes,Medium,High,Low,Medium,45,Pass
+934,17,Female,3,73,85,97,48,6.2,No,Graduate,Self Study,Yes,Low,Low,Medium,High,78,Good
+935,19,Female,5,60,79,63,69,7.5,No,Graduate,Coaching,Yes,High,Low,High,High,82,Good
+936,21,Female,10,66,69,93,64,5.0,No,Graduate,Self Study,Yes,Medium,Medium,High,Medium,82,Good
+937,20,Female,4,91,73,81,62,8.8,Yes,Postgraduate,Online,No,High,Medium,Medium,Medium,68,Average
+938,22,Male,4,71,56,48,51,8.4,Yes,School,Coaching,Yes,Low,High,Medium,Low,46,Pass
+939,22,Female,4,77,75,65,37,7.1,No,Graduate,Online,Yes,High,Medium,Low,High,52,Pass
+940,18,Female,10,80,88,59,50,7.5,Yes,Graduate,Coaching,Yes,Medium,Low,High,Low,85,Good
+941,20,Male,8,83,39,79,80,4.6,No,Intermediate,Self Study,Yes,Medium,High,Medium,Medium,81,Good
+942,22,Female,6,87,76,49,64,6.0,Yes,School,Group Study,Yes,High,Low,High,Low,81,Good
+943,18,Male,3,81,57,58,86,8.1,Yes,Postgraduate,Self Study,Yes,Medium,High,Low,Medium,84,Good
+944,21,Male,10,79,51,42,63,4.8,Yes,Intermediate,Self Study,No,Medium,High,Medium,High,64,Average
+945,18,Male,5,64,46,63,79,5.8,No,Graduate,Self Study,Yes,Medium,Low,High,High,70,Average
+946,22,Female,6,77,57,44,49,7.1,No,Intermediate,Coaching,Yes,Low,Medium,High,Medium,64,Average
+947,19,Female,5,75,50,42,80,5.7,No,Intermediate,Group Study,No,Low,Medium,Low,High,58,Pass
+948,19,Male,6,75,37,97,90,8.7,No,Graduate,Online,Yes,Medium,Medium,Medium,Medium,85,Good
+949,19,Female,8,97,64,66,59,5.1,Yes,School,Self Study,Yes,High,Medium,High,Low,74,Average
+950,22,Female,7,67,56,55,85,8.1,Yes,School,Coaching,Yes,Low,Low,Low,Medium,61,Average
+951,19,Male,5,91,43,88,72,6.8,Yes,Intermediate,Online,Yes,High,High,High,Low,61,Average
+952,20,Male,10,87,63,54,76,7.9,Yes,Graduate,Self Study,Yes,Medium,Low,Low,Medium,86,Good
+953,21,Female,6,78,81,74,93,5.9,No,Postgraduate,Online,Yes,Medium,Medium,High,High,81,Good
+954,18,Male,4,98,71,51,81,6.8,Yes,Intermediate,Self Study,Yes,High,Medium,High,Medium,72,Average
+955,18,Female,9,65,57,80,87,8.4,Yes,Postgraduate,Online,Yes,Low,Low,Low,Medium,75,Good
+956,22,Female,4,71,47,92,88,6.6,Yes,Intermediate,Online,No,High,High,Medium,Medium,89,Good
+957,19,Female,1,58,66,83,86,6.1,No,Intermediate,Group Study,Yes,High,Low,Low,High,61,Average
+958,19,Female,7,79,80,65,92,6.9,No,Graduate,Group Study,Yes,Medium,Low,Medium,Medium,91,Excellent
+959,17,Male,7,84,86,86,72,7.7,No,Graduate,Self Study,Yes,Low,Low,High,High,90,Excellent
+960,21,Male,4,63,81,73,57,6.5,Yes,Postgraduate,Coaching,Yes,High,High,High,Medium,80,Good
+961,20,Male,3,75,82,62,59,8.7,No,Postgraduate,Group Study,No,Low,Low,Low,Low,61,Average
+962,18,Male,8,74,57,70,76,5.8,Yes,School,Online,Yes,Medium,Low,Low,Medium,63,Average
+963,17,Female,5,73,79,89,41,6.6,Yes,Graduate,Group Study,Yes,Low,Medium,Medium,Low,73,Average
+964,17,Female,10,73,51,59,56,7.9,Yes,Intermediate,Group Study,Yes,Medium,Low,Medium,High,76,Good
+965,22,Male,7,66,89,51,51,7.6,No,Intermediate,Self Study,No,Low,Medium,Medium,High,77,Good
+966,18,Female,4,91,74,62,52,8.4,No,School,Group Study,Yes,High,Medium,Low,Medium,77,Good
+967,22,Female,4,96,55,43,83,9.0,Yes,Graduate,Group Study,Yes,Medium,Medium,High,High,87,Good
+968,20,Female,8,71,36,62,75,6.4,Yes,Intermediate,Online,Yes,High,High,Low,Medium,87,Good
+969,17,Male,8,91,71,87,44,5.0,No,School,Group Study,No,Medium,Medium,High,High,78,Good
+970,17,Male,2,93,40,94,44,4.6,No,School,Online,Yes,Low,Low,Low,Low,68,Average
+971,21,Male,2,82,78,87,91,7.8,No,Intermediate,Group Study,Yes,Low,Low,Low,High,74,Average
+972,20,Female,3,95,52,40,41,8.4,Yes,Intermediate,Group Study,Yes,Medium,Medium,Medium,Low,65,Average
+973,17,Male,3,89,64,93,82,5.5,Yes,Postgraduate,Coaching,Yes,Medium,Medium,High,Medium,76,Good
+974,20,Male,1,72,56,64,95,5.2,Yes,Graduate,Group Study,Yes,Medium,Low,Low,Medium,72,Average
+975,18,Male,3,68,88,41,84,4.8,No,Postgraduate,Online,No,Low,Medium,Low,Medium,63,Average
+976,19,Male,6,89,67,69,72,8.2,No,School,Online,No,Medium,High,High,Low,58,Pass
+977,17,Male,8,98,64,42,61,5.9,No,Intermediate,Self Study,No,Medium,Medium,Low,Medium,64,Average
+978,21,Male,10,95,51,97,86,6.3,Yes,Postgraduate,Self Study,Yes,High,High,High,Medium,93,Excellent
+979,18,Female,6,61,77,60,67,6.8,Yes,School,Coaching,Yes,Medium,High,Medium,Low,49,Pass
+980,20,Female,5,95,66,64,35,8.3,No,Graduate,Online,Yes,High,High,Medium,High,68,Average
+981,22,Male,4,67,76,59,78,7.4,Yes,Intermediate,Online,Yes,High,Medium,High,Medium,85,Good
+982,18,Male,3,72,85,88,87,7.3,No,Postgraduate,Online,Yes,High,High,Medium,High,90,Excellent
+983,17,Female,4,91,48,91,94,5.3,Yes,Graduate,Coaching,Yes,Low,High,High,High,71,Average
+984,20,Female,7,67,44,61,68,6.8,No,Postgraduate,Online,No,High,Medium,Low,Medium,77,Good
+985,19,Male,1,90,81,60,38,7.7,Yes,School,Self Study,Yes,Medium,High,Low,Medium,68,Average
+986,18,Male,7,85,85,100,51,8.9,Yes,Graduate,Coaching,No,Low,Medium,High,Low,61,Average
+987,17,Male,1,56,70,72,38,5.4,No,Postgraduate,Self Study,Yes,Low,Low,Low,Low,49,Pass
+988,21,Male,2,70,68,91,77,4.5,No,Graduate,Self Study,Yes,Low,High,Medium,Medium,65,Average
+989,22,Female,4,63,43,77,88,4.8,No,School,Coaching,Yes,Low,Medium,Low,High,76,Good
+990,20,Male,1,63,76,100,60,6.2,No,Graduate,Group Study,Yes,Low,Low,Low,Low,63,Average
+991,18,Male,9,92,62,54,38,8.2,No,Postgraduate,Group Study,Yes,Low,High,High,Low,78,Good
+992,18,Male,6,65,45,97,35,4.5,Yes,School,Self Study,No,Low,High,Medium,Medium,48,Pass
+993,19,Male,1,76,48,97,41,6.6,No,Intermediate,Group Study,Yes,High,Medium,Low,Medium,47,Pass
+994,19,Female,1,87,73,85,64,6.0,No,Postgraduate,Online,Yes,Medium,Low,Low,Medium,64,Average
+995,21,Female,6,90,89,91,84,4.7,No,Postgraduate,Coaching,Yes,Medium,Medium,High,Medium,99,Excellent
+996,22,Female,4,99,81,54,43,6.5,Yes,School,Self Study,Yes,High,High,High,Low,76,Good
+997,21,Male,4,77,88,85,95,5.6,No,School,Online,Yes,High,High,Medium,Low,97,Excellent
+998,17,Male,6,99,53,64,69,6.1,No,Intermediate,Group Study,Yes,Low,High,Low,Low,52,Pass
+999,17,Female,7,99,88,60,42,7.7,No,Postgraduate,Online,No,Low,High,High,High,80,Good
+1000,21,Male,9,88,49,63,95,6.8,Yes,School,Group Study,Yes,High,Low,High,Low,95,Excellent
